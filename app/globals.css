@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-bg: #070c18;
+  --color-surface: #0d1525;
+  --color-hero: #030710;
+  --color-ink: #dce8f5;
+  --color-muted: #7a90a8;
+  --color-teal: #00b8d9;
+  --color-teal-dark: #0090aa;
+  --color-gold: #e0a020;
+  --color-edge: #1a2840;
+  --color-alt: #0a1220;
+  --color-card-bg: #0f1930;
+  --color-text-inv: #070c18;
+  --color-whatsapp: #25d366;
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'DM Sans', system-ui, sans-serif;
+}
+
+:root {
+  --nav-bg: rgba(7,12,24,0.96);
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body, 'DM Sans', system-ui, sans-serif);
+  background: #070c18;
+  color: #dce8f5;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+@keyframes shimmer {
+  from { opacity: 0.6; transform: scale(1); }
+  to   { opacity: 1;   transform: scale(1.08); }
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}

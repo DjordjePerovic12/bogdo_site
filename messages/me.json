@@ -1,0 +1,338 @@
+{
+  "nav": {
+    "tours": "Ture",
+    "gallery": "Galerija",
+    "about": "O nama",
+    "faq": "Pitanja",
+    "contact": "Kontakt",
+    "bookNow": "Rezerviši"
+  },
+  "hero": {
+    "location": "Kotor · Boka Kotorska · Crna Gora",
+    "headline1": "Otkrijte",
+    "headline2": "Boku Kotorsku",
+    "headline3": "kao nikad prije.",
+    "subheadline": "Iskusni skiperi. Male grupe. Novi čamci.\nPlava špilja, Perast i skrivene uvale — punom brzinom.",
+    "ctaPrimary": "Rezervišite turu",
+    "ctaSecondary": "Istražite ture",
+    "scroll": "Skroluj"
+  },
+  "trust": {
+    "tripadvisor": "Ocijenjeno na TripAdvisoru",
+    "based": "Sjedište: Kotor",
+    "licensed": "Licencirani skiperi",
+    "newBoats": "Novi brodovi",
+    "guests": "Gosti iz cijelog svijeta",
+    "direct": "Direktna rezervacija — bez naknada"
+  },
+  "tours": {
+    "sectionLabel": "Ture",
+    "groupLabel": "Grupne ture",
+    "groupHeading": "Pridružite se maloj ekipi",
+    "groupSubtext": "Maksimalno 10–12 gostiju. Nikad gužva — uvijek ekipa.",
+    "privateLabel": "Privatne ture",
+    "privateHeading": "Vaš brod, vaša pravila",
+    "privateSubtext": "Cijena po brodu. Idealno za parove, porodice i proslave.",
+    "viewTour": "Pogledajte turu",
+    "smallGroup": "Mala grupa",
+    "privateTour": "Privatna tura",
+    "popular": "Popularno",
+    "startingFrom": "Od",
+    "perPerson": "po osobi",
+    "perBoat": "po brodu",
+    "duration": "Trajanje",
+    "groupSize": "Veličina grupe",
+    "price": "Cijena",
+    "per": "Po",
+    "upTo": "Do",
+    "allTours": "← Sve ture",
+    "highlights": "Istaknuto",
+    "whatsIncluded": "Uključeno",
+    "notIncluded": "Nije uključeno",
+    "relatedTitle": "Možda će vam se svidjeti",
+    "tabs": {
+      "overview": "Pregled",
+      "included": "Uključeno",
+      "route": "Ruta"
+    }
+  },
+  "cta": {
+    "heading": "Mjesta se brzo popune u sezoni.",
+    "subtext": "Rezervišite online za 2 minute. Potvrda u roku od nekoliko sati.",
+    "button": "Rezervišite mjesto"
+  },
+  "whyUs": {
+    "sectionLabel": "Zašto mi",
+    "heading": "Šta nas izdvaja",
+    "items": [
+      {
+        "num": "01",
+        "title": "Samo male grupe",
+        "body": "Maksimalno 12 gostiju u grupnim turama. Nikad autobus na vodi — uvijek intimna avantura."
+      },
+      {
+        "num": "02",
+        "title": "Iskusni skiperi",
+        "body": "Naša ekipa je odrasla na ovom zaljevu. Poznaju svaku špilju, uvalu i struju."
+      },
+      {
+        "num": "03",
+        "title": "Novi brodovi",
+        "body": "Moderni, dobro održavani gliseri sa sjenilom, sigurnosnom opremom i snažnim motorima."
+      },
+      {
+        "num": "04",
+        "title": "Bez skrivenih troškova",
+        "body": "Rezervišite direktno kod nas. Bez naknada. Plaćate gotovinom na dan ture."
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionLabel": "Recenzije gostiju",
+    "heading": "Šta kažu naši gosti",
+    "seeAll": "Sve recenzije",
+    "close": "Zatvori"
+  },
+  "gallery": {
+    "sectionLabel": "Galerija",
+    "heading": "Sa vode",
+    "viewAll": "Cijela galerija",
+    "placeholderNote": "Fotografije uskoro"
+  },
+  "about": {
+    "sectionLabel": "O nama",
+    "heading": "Naša priča",
+    "body": "Speed Boat Tour Kotor je porodična kompanija za ture gliserima sa sjedištem u srcu Kotora, Crna Gora. Specijalizujemo se za male grupne i privatne ture kroz Boku Kotorsku — jedan od najljepših zaliva na svijetu."
+  },
+  "faq": {
+    "sectionLabel": "Pitanja",
+    "heading": "Česta pitanja",
+    "items": [
+      {
+        "q": "Odakle polaze ture?",
+        "a": "Sve ture polaze iz Kotora. Nakon potvrde vaše rezervacije, dobićete tačno mjesto susreta i uputstva za polazak putem WhatsAppa za jednostavan i gladak proces ukrcavanja."
+      },
+      {
+        "q": "Šta je uključeno u cijenu ture?",
+        "a": "Cijena ture uključuje profesionalnog skipera, gorivo, prsluke za spasavanje i posjete glavnim atrakcijama na odabranoj ruti. Na turama u Plavu špilju, gosti imaju i mogućnost kupanja i ronjenja, ovisno o vremenskim i morskim uslovima."
+      },
+      {
+        "q": "Kako se plaća?",
+        "a": "Plaćanje se vrši gotovinom prije polaska. Za privatne ture, može biti zatražena kapara za osiguranje rezervacije."
+      },
+      {
+        "q": "Šta ako je loše vrijeme?",
+        "a": "Vaša bezbjednost i udobnost su naš prioritet. Ako morski ili vremenski uslovi nisu pogodni, tura se može prerasporediti ili prilagoditi alternativnom rutom, ovisno o uslovima na dan polaska."
+      },
+      {
+        "q": "Mogu li djeca da učestvuju?",
+        "a": "Da, djeca su dobrodošla na svim turama. Dostupni su sadržaji prilagođeni porodicama, a sva djeca moraju biti u pratnji odrasle osobe."
+      },
+      {
+        "q": "Koliko osoba je u grupnoj turi?",
+        "a": "Grupne ture obično primaju do 8 gostiju, stvarajući ugodnu i opuštenu atmosferu na brodu."
+      },
+      {
+        "q": "Koje privatne ture su dostupne?",
+        "a": "Nudimo potpuno prilagodljive privatne ture do nekih od najljepših lokacija u Crnoj Gori, uključujući Perast, Gospu od Škrpjela, Podmorničke tunele, ostrvo Mamula i Plavu špilju. Privatne ture omogućavaju fleksibilna vremena polaska i personalizovane rute prema vašim željama. Pored razglednih tura, pružamo i privatne morske transfere do restorana, aerodroma, hotela, beach klubova, te večernje i noćne transfere duž obale."
+      },
+      {
+        "q": "Šta da ponesem?",
+        "a": "Preporučujemo da ponesete naočare za sunce, kremu za sunčanje, kupaći kostim, peškir i telefon ili fotoaparat. Preporučuje se i udobna odjeća i cipele koje ne kližu."
+      },
+      {
+        "q": "Kako da otkažem ili promijenim rezervaciju?",
+        "a": "Promjene ili otkazivanja su moguća u zavisnosti od dostupnosti i vremenskih uslova. Molimo kontaktirajte nas što prije kako bismo vam ponudili najbolju alternativu."
+      },
+      {
+        "q": "Šta čini ovo iskustvo posebnim?",
+        "a": "Naše ture kombinuju lokalno znanje, predivne destinacije, fleksibilne rute i ugodno iskustvo plovidbe. Fokusirani smo na stvaranje opuštenog, autentičnog i nezaboravnog dana na vodi za svakog gosta."
+      }
+    ]
+  },
+  "contact": {
+    "sectionLabel": "Kontakt",
+    "heading": "Kontaktirajte nas",
+    "emailLabel": "E-pošta",
+    "phoneLabel": "Telefon",
+    "locationLabel": "Lokacija",
+    "email": "boattourskotor1@gmail.com",
+    "phone": "+382 68 620 177",
+    "location": "Kotor, Boka Kotorska, Crna Gora",
+    "whatsappBtn": "Pišite nam na WhatsApp",
+    "instagramLabel": "Instagram",
+    "tripadvisorLabel": "TripAdvisor"
+  },
+  "footer": {
+    "tagline": "Ture gliserima iz Marine Starog grada Kotor. Male grupe, novi brodovi, nezaboravni pogledi.",
+    "contactHeading": "Kontakt",
+    "quickLinksHeading": "Brze veze",
+    "groupTours": "Grupne ture",
+    "privateTours": "Privatne ture",
+    "about": "O nama",
+    "faq": "Pitanja",
+    "bookNow": "Rezerviši",
+    "copyright": "© 2026 Speed Boat Tour Kotor. Sva prava zadržana.",
+    "terms": "Uslovi korišćenja",
+    "privacy": "Politika privatnosti"
+  },
+  "booking": {
+    "pageTitle": "Rezervišite mjesto",
+    "pageSubtitle": "Nije potreban depozit. Gotovinska uplata na dan ture.",
+    "back": "← Početna",
+    "sidebarTour": "Odabrana tura",
+    "sidebarDuration": "Trajanje",
+    "sidebarPrice": "Cijena",
+    "sidebarCash": "Gotovinska uplata na dan ture.",
+    "fields": {
+      "tourLabel": "Odaberite turu",
+      "tourPlaceholder": "Izaberite turu...",
+      "groupToursLabel": "Grupne ture",
+      "privateToursLabel": "Privatne ture",
+      "dateLabel": "Datum",
+      "timeLabel": "Željeno vrijeme",
+      "guestsLabel": "Broj gostiju",
+      "nameLabel": "Ime",
+      "namePlaceholder": "Vaše ime",
+      "lastNameLabel": "Prezime",
+      "lastNamePlaceholder": "Vaše prezime",
+      "emailLabel": "E-mail adresa",
+      "emailPlaceholder": "vas@email.com",
+      "phoneLabel": "Broj telefona (WhatsApp)",
+      "phonePlaceholder": "68 123 456",
+      "phoneSearchPlaceholder": "Pretraži zemlju...",
+      "phoneHint": "Kontaktiraćemo vas putem WhatsAppa sa mjestom polaska",
+      "requestsLabel": "Posebni zahtjevi",
+      "requestsOptional": "(opciono)",
+      "requestsPlaceholder": "Dijetetske potrebe, proslave...",
+      "paymentTitle": "Plaćanje nije potrebno sada.",
+      "paymentBody": "Plaćanje se vrši gotovinom na dan ture.",
+      "termsText": "Slažem se sa",
+      "termsLink": "Uslovima korišćenja",
+      "termsAnd": "i",
+      "privacyLink": "Politikom privatnosti",
+      "estimateLabel": "Procjena ukupnih troškova",
+      "flexible": "Fleksibilno",
+      "maxNote": "Maks.",
+      "largeGroupNote": "Za grupe veće od 12 osoba, kontaktirajte nas direktno",
+      "submit": "Rezerviši",
+      "submitting": "Šalje se...",
+      "referralSourceLabel": "Ko vas je preporučio?",
+      "referralSourceOptional": "(opciono — pomaže im da zarade nagradu)",
+      "referralSourcePlaceholder": "Odaberite (opciono)",
+      "referralSourceGoogle": "Google / Online pretraga",
+      "referralSourceSocial": "Društvene mreže",
+      "referralSourceOther": "Drugo"
+    },
+    "validation": {
+      "tourRequired": "Molimo odaberite turu",
+      "dateRequired": "Molimo odaberite datum",
+      "datePast": "Molimo odaberite budući datum",
+      "dateOutOfSeason": "Ture se odvijaju od 1. maja do 31. oktobra",
+      "nameRequired": "Ime je obavezno",
+      "nameMin": "Ime mora imati najmanje 2 znaka",
+      "lastNameRequired": "Prezime je obavezno",
+      "emailRequired": "E-mail je obavezan",
+      "emailInvalid": "Molimo unesite ispravnu e-mail adresu",
+      "phoneRequired": "Broj telefona je obavezan",
+      "termsRequired": "Molimo prihvatite uslove korišćenja"
+    },
+    "success": {
+      "title": "Rezervisani ste!",
+      "body": "Potvrdiću vaše mjesto i poslati detalje mjesta susreta putem WhatsAppa ili e-pošte u roku od nekoliko sati.",
+      "refLabel": "Vaš referentni broj:",
+      "emailSent": "Poslali smo potvrdu na vašu e-poštu.",
+      "whatsappNote": "Naš tim će vas uskoro kontaktirati putem WhatsAppa sa tačnim mjestom susreta.",
+      "paymentNote": "Plaćanje će biti izvršeno lično na dan ture.",
+      "backHome": "Na početnu",
+      "bookAnother": "Rezervišite drugu turu",
+      "summaryTour": "Tura",
+      "summaryDate": "Datum",
+      "summaryTime": "Vrijeme",
+      "summaryGuests": "Gostiju",
+      "summaryContact": "Kontakt"
+    },
+    "error": {
+      "title": "Nešto je pošlo naopako",
+      "body": "Molimo pokušajte ponovo ili nas kontaktirajte direktno putem WhatsAppa.",
+      "tryAgain": "Pokušajte ponovo",
+      "whatsappBtn": "WhatsApp",
+      "emailBtn": "Pošaljite e-poštu"
+    },
+    "tours": {
+      "perPerson": "po osobi",
+      "perBoat": "po brodu"
+    }
+  },
+  "whatsapp": {
+    "ariaLabel": "Otvorite WhatsApp čet"
+  },
+  "whatsappCta": {
+    "eyebrow": "Direktna rezervacija",
+    "heading": "Rezervišite odmah putem WhatsApp-a",
+    "subtext": "Bez formi. Pišite nam direktno i potvrđujemo vaše mjesto u roku od nekoliko minuta.",
+    "bogdan": "Pišite Bogdanu",
+    "dimitrij": "Pišite Dimitriju",
+    "available": "Dostupni svaki dan · Odgovaramo u roku od par minuta"
+  },
+  "cookie": {
+    "message": "Koristimo kolačiće da poboljšamo vaše iskustvo.",
+    "policyLink": "Pogledajte politiku privatnosti",
+    "acceptAll": "Prihvati sve",
+    "essentialOnly": "Samo neophodni"
+  },
+  "seo": {
+    "home": {
+      "title": "Ture Plava Špilja Kotor | Ture Gliserom Crna Gora",
+      "description": "Rezervišite ture gliserom iz Kotora do Plave špilje, Perasta i Boke Kotorske. Male grupe od €25, privatne ture od €150. Direktna rezervacija."
+    },
+    "perastTour": {
+      "title": "Tura Perast Kotor | Gospa od Škrpjela | €25/osobi",
+      "description": "Tura gliserom iz Kotora do Perasta i Gospe od Škrpjela. 2 sata, mala grupa, od €25 po osobi."
+    },
+    "blueCaveTour": {
+      "title": "Tura Plava Špilja Kotor | €40/osobi | Izlet Gliserom",
+      "description": "Otkrijte Plavu špilju, Perast, Gospu od Škrpjela i Mamulu gliserom iz Kotora. 3–4 sata, maks. 12 gostiju. Od €40/osobi."
+    },
+    "privateTour": {
+      "title": "Privatne ture gliserom Kotor | Speed Boat Tour Kotor",
+      "description": "Rezervišite privatnu turu gliserom u Kotoru. Privatna tura Perast (€150/brod) ili Plava špilja (€300/brod). Samo vaša grupa."
+    },
+    "privatePerastTour": {
+      "title": "Privatna Tura Perast Kotor | €150/brod | Gliser",
+      "description": "Privatna tura gliserom do Perasta iz Kotora. Samo vaša grupa, €150 po brodu, fleksibilno polazište."
+    },
+    "privateBlueCaveTour": {
+      "title": "Privatna Tura Plava Špilja Kotor | €300/brod",
+      "description": "Privatna tura gliserom do Plave špilje iz Kotora. Samo vaša grupa, €300 po brodu, fleksibilno polazište."
+    },
+    "booking": {
+      "title": "Rezervišite turu | Speed Boat Tour Kotor",
+      "description": "Rezervišite turu gliserom u Kotoru, Crna Gora. Lagana online rezervacija, plaćanje na licu mjesta."
+    },
+    "terms": {
+      "title": "Uslovi korišćenja | Speed Boat Tour Kotor",
+      "description": "Uslovi korišćenja Speed Boat Tour Kotor."
+    },
+    "privacy": {
+      "title": "Politika privatnosti | Speed Boat Tour Kotor",
+      "description": "Politika privatnosti Speed Boat Tour Kotor."
+    }
+  },
+  "review": {
+    "pageTitle": "Ostavite recenziju | Speed Boat Tour Kotor",
+    "ratingLabel": "Vaša ocjena",
+    "nameLabel": "Vaše ime",
+    "namePlaceholder": "npr. Sarah M.",
+    "textLabel": "Vaše iskustvo",
+    "textPlaceholder": "Recite nam o vašoj turi...",
+    "submit": "Pošaljite recenziju",
+    "submitting": "Slanje...",
+    "successTitle": "Hvala vam!",
+    "successBody": "Vaša recenzija je poslata i uskoro će se pojaviti na našem sajtu.",
+    "errorMsg": "Nešto je pošlo po zlu. Molimo pokušajte ponovo.",
+    "tryAgain": "Pokušajte ponovo",
+    "heading": "Podijelite vaše iskustvo",
+    "subtext": "Voljeli bismo čuti o vašem vremenu na vodi. Vaša recenzija pomaže drugim putnicima da nas pronađu."
+  }
+}

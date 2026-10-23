@@ -1,0 +1,338 @@
+{
+  "nav": {
+    "tours": "Excursiones",
+    "gallery": "Galería",
+    "about": "Nosotros",
+    "faq": "FAQ",
+    "contact": "Contacto",
+    "bookNow": "Reservar"
+  },
+  "hero": {
+    "location": "Kotor · Bahía de Boka · Montenegro",
+    "headline1": "Descubre",
+    "headline2": "la Bahía de Boka",
+    "headline3": "como nunca antes.",
+    "subheadline": "Patrones expertos. Grupos pequeños. Barcos nuevos.\nLa Cueva Azul, Perast y calas escondidas — a toda velocidad.",
+    "ctaPrimary": "Reservar tu excursión",
+    "ctaSecondary": "Ver excursiones",
+    "scroll": "Desplazar"
+  },
+  "trust": {
+    "tripadvisor": "Valorado en TripAdvisor",
+    "based": "Basado en Kotor",
+    "licensed": "Patrones con licencia",
+    "newBoats": "Barcos nuevos",
+    "guests": "Clientes de todo el mundo",
+    "direct": "Reserva directa — sin comisiones"
+  },
+  "tours": {
+    "sectionLabel": "Excursiones",
+    "groupLabel": "Excursiones en grupo",
+    "groupHeading": "Únete a una pequeña tripulación",
+    "groupSubtext": "Máximo 10–12 personas. Nunca una multitud — siempre una tripulación.",
+    "privateLabel": "Excursiones privadas",
+    "privateHeading": "Tu barco, tus reglas",
+    "privateSubtext": "Precio por barco. Ideal para parejas, familias y celebraciones.",
+    "viewTour": "Ver excursión",
+    "smallGroup": "Grupo pequeño",
+    "privateTour": "Excursión privada",
+    "popular": "Popular",
+    "startingFrom": "Desde",
+    "perPerson": "por persona",
+    "perBoat": "por barco",
+    "duration": "Duración",
+    "groupSize": "Tamaño del grupo",
+    "price": "Precio",
+    "per": "Por",
+    "upTo": "Hasta",
+    "allTours": "← Todas las excursiones",
+    "highlights": "Destacados",
+    "whatsIncluded": "Qué incluye",
+    "notIncluded": "No incluido",
+    "relatedTitle": "También podría gustarte",
+    "tabs": {
+      "overview": "Resumen",
+      "included": "Incluido",
+      "route": "Ruta"
+    }
+  },
+  "cta": {
+    "heading": "Las plazas se agotan rápido en temporada alta.",
+    "subtext": "Reserva online en 2 minutos. Confirmación en pocas horas.",
+    "button": "Reservar mi plaza"
+  },
+  "whyUs": {
+    "sectionLabel": "Por qué nosotros",
+    "heading": "Lo que nos diferencia",
+    "items": [
+      {
+        "num": "01",
+        "title": "Solo grupos pequeños",
+        "body": "Máximo 12 personas en excursiones en grupo. Nunca un autobús flotante — siempre una aventura íntima."
+      },
+      {
+        "num": "02",
+        "title": "Patrones expertos",
+        "body": "Nuestra tripulación creció en esta bahía. Conocen cada cueva, cala y corriente."
+      },
+      {
+        "num": "03",
+        "title": "Barcos nuevos",
+        "body": "Lanchas rápidas modernas y bien mantenidas con toldo, equipo de seguridad y mucha potencia."
+      },
+      {
+        "num": "04",
+        "title": "Sin costes ocultos",
+        "body": "Reserva directamente con nosotros. Sin comisiones. Pagas en efectivo el día de la excursión."
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionLabel": "Opiniones de clientes",
+    "heading": "Lo que dicen nuestros clientes",
+    "seeAll": "Ver todas las reseñas",
+    "close": "Cerrar"
+  },
+  "gallery": {
+    "sectionLabel": "Galería",
+    "heading": "Desde el agua",
+    "viewAll": "Ver galería completa",
+    "placeholderNote": "Fotos próximamente"
+  },
+  "about": {
+    "sectionLabel": "Nosotros",
+    "heading": "Nuestra historia",
+    "body": "Speed Boat Tour Kotor es una empresa familiar de excursiones en lancha rápida ubicada en el corazón de Kotor, Montenegro. Nos especializamos en excursiones en grupo pequeño y privadas por la impresionante Bahía de Boka — una de las bahías más bellas del mundo."
+  },
+  "faq": {
+    "sectionLabel": "FAQ",
+    "heading": "Preguntas frecuentes",
+    "items": [
+      {
+        "q": "¿Dónde salen las excursiones?",
+        "a": "Todas las excursiones salen de Kotor. Tras confirmar tu reserva, recibirás el punto de encuentro exacto y las instrucciones de salida por WhatsApp para un proceso de embarque sencillo y fluido."
+      },
+      {
+        "q": "¿Qué incluye el precio?",
+        "a": "El precio incluye un patrón profesional, combustible, chalecos salvavidas y visitas a los principales puntos turísticos de la ruta seleccionada. En las excursiones a la Cueva Azul, los participantes también tienen la oportunidad de nadar y hacer snorkel según las condiciones meteorológicas y del mar."
+      },
+      {
+        "q": "¿Cómo se paga?",
+        "a": "El pago se realiza en efectivo antes de la salida. Para excursiones privadas, puede solicitarse un depósito para asegurar la reserva."
+      },
+      {
+        "q": "¿Qué pasa si el tiempo es malo?",
+        "a": "Tu seguridad y comodidad son nuestra prioridad. Si las condiciones del mar o del tiempo no son adecuadas, la excursión puede reprogramarse o ajustarse con una ruta alternativa según las condiciones del día."
+      },
+      {
+        "q": "¿Pueden los niños participar?",
+        "a": "Sí, los niños son bienvenidos en todas las excursiones. Hay experiencias aptas para familias y todos los niños deben ir acompañados de un adulto."
+      },
+      {
+        "q": "¿Cuántas personas hay en una excursión en grupo?",
+        "a": "Las excursiones grupales suelen acomodar hasta 8 personas, creando un ambiente cómodo y relajado a bordo."
+      },
+      {
+        "q": "¿Qué opciones de excursión privada hay?",
+        "a": "Ofrecemos excursiones privadas totalmente personalizables a algunos de los lugares más hermosos de Montenegro, incluyendo Perast, Nuestra Señora de las Rocas, los Túneles Submarinos, la Isla Mamula y la Cueva Azul. Las excursiones privadas permiten horarios de salida flexibles y rutas personalizadas según tus preferencias. Además de las excursiones turísticas, también ofrecemos traslados privados por mar a restaurantes, aeropuertos, hoteles, beach clubs y traslados nocturnos por la costa."
+      },
+      {
+        "q": "¿Qué debo traer?",
+        "a": "Recomendamos traer gafas de sol, protector solar, bañador, toalla y un teléfono o cámara para capturar la experiencia. También se recomienda ropa cómoda y calzado antideslizante."
+      },
+      {
+        "q": "¿Cómo puedo cancelar o modificar?",
+        "a": "Los cambios o cancelaciones son posibles según disponibilidad y condiciones meteorológicas. Por favor, contáctanos lo antes posible para ofrecerte la mejor alternativa."
+      },
+      {
+        "q": "¿Qué hace que esta experiencia sea especial?",
+        "a": "Nuestras excursiones combinan conocimiento local, destinos impresionantes, rutas flexibles y una cómoda experiencia en barco. Nos enfocamos en crear un día relajado, auténtico e inolvidable en el agua para cada cliente."
+      }
+    ]
+  },
+  "contact": {
+    "sectionLabel": "Contacto",
+    "heading": "Contáctanos",
+    "emailLabel": "Email",
+    "phoneLabel": "Teléfono",
+    "locationLabel": "Ubicación",
+    "email": "boattourskotor1@gmail.com",
+    "phone": "+382 68 620 177",
+    "location": "Kotor, Bahía de Boka, Montenegro",
+    "whatsappBtn": "WhatsApp",
+    "instagramLabel": "Instagram",
+    "tripadvisorLabel": "TripAdvisor"
+  },
+  "footer": {
+    "tagline": "Excursiones en lancha desde el puerto de la Ciudad Vieja de Kotor. Grupos pequeños, barcos nuevos, vistas inolvidables.",
+    "contactHeading": "Contacto",
+    "quickLinksHeading": "Enlaces rápidos",
+    "groupTours": "Excursiones en grupo",
+    "privateTours": "Excursiones privadas",
+    "about": "Nosotros",
+    "faq": "FAQ",
+    "bookNow": "Reservar",
+    "copyright": "© 2026 Speed Boat Tour Kotor. Todos los derechos reservados.",
+    "terms": "Términos y condiciones",
+    "privacy": "Política de privacidad"
+  },
+  "booking": {
+    "pageTitle": "Reservar tu plaza",
+    "pageSubtitle": "Sin depósito previo. Pago en efectivo el día de la excursión.",
+    "back": "← Inicio",
+    "sidebarTour": "Excursión seleccionada",
+    "sidebarDuration": "Duración",
+    "sidebarPrice": "Precio",
+    "sidebarCash": "Pago en efectivo el día de la excursión.",
+    "fields": {
+      "tourLabel": "Seleccionar excursión",
+      "tourPlaceholder": "Elegir una excursión...",
+      "groupToursLabel": "Excursiones en grupo",
+      "privateToursLabel": "Excursiones privadas",
+      "dateLabel": "Fecha",
+      "timeLabel": "Hora preferida",
+      "guestsLabel": "Número de personas",
+      "nameLabel": "Nombre",
+      "namePlaceholder": "Tu nombre",
+      "lastNameLabel": "Apellido",
+      "lastNamePlaceholder": "Tu apellido",
+      "emailLabel": "Dirección de email",
+      "emailPlaceholder": "tu@email.es",
+      "phoneLabel": "Teléfono (WhatsApp)",
+      "phonePlaceholder": "68 123 456",
+      "phoneSearchPlaceholder": "Buscar país...",
+      "phoneHint": "Te contactaremos por WhatsApp con el punto de encuentro",
+      "requestsLabel": "Peticiones especiales",
+      "requestsOptional": "(opcional)",
+      "requestsPlaceholder": "Necesidades dietéticas, celebraciones...",
+      "paymentTitle": "No se requiere pago ahora.",
+      "paymentBody": "El pago se realiza en efectivo el día de la excursión en el puerto.",
+      "termsText": "Acepto los",
+      "termsLink": "Términos y condiciones",
+      "termsAnd": "y la",
+      "privacyLink": "Política de privacidad",
+      "estimateLabel": "Estimación del coste total",
+      "flexible": "Flexible",
+      "maxNote": "Máx.",
+      "largeGroupNote": "Para grupos de más de 12 personas, contáctanos directamente",
+      "submit": "Reservar ahora",
+      "submitting": "Enviando...",
+      "referralSourceLabel": "¿Quién le recomendó?",
+      "referralSourceOptional": "(opcional — les ayuda a ganar una recompensa)",
+      "referralSourcePlaceholder": "Seleccionar (opcional)",
+      "referralSourceGoogle": "Google / Búsqueda en línea",
+      "referralSourceSocial": "Redes sociales",
+      "referralSourceOther": "Otro"
+    },
+    "validation": {
+      "tourRequired": "Por favor selecciona una excursión",
+      "dateRequired": "Por favor selecciona una fecha",
+      "datePast": "Por favor selecciona una fecha futura",
+      "dateOutOfSeason": "Las excursiones son del 1 de mayo al 31 de octubre",
+      "nameRequired": "El nombre es obligatorio",
+      "nameMin": "El nombre debe tener al menos 2 caracteres",
+      "lastNameRequired": "El apellido es obligatorio",
+      "emailRequired": "El email es obligatorio",
+      "emailInvalid": "Por favor introduce un email válido",
+      "phoneRequired": "El teléfono es obligatorio",
+      "termsRequired": "Por favor acepta los términos y condiciones"
+    },
+    "success": {
+      "title": "¡Reserva confirmada!",
+      "body": "Confirmaremos tu plaza y te enviaremos los detalles del punto de encuentro por WhatsApp o email en pocas horas.",
+      "refLabel": "Tu número de referencia:",
+      "emailSent": "Hemos enviado una confirmación a tu email.",
+      "whatsappNote": "Nuestro equipo te contactará pronto por WhatsApp con el punto de encuentro exacto.",
+      "paymentNote": "El pago se realizará en persona el día de la excursión.",
+      "backHome": "Volver al inicio",
+      "bookAnother": "Reservar otra excursión",
+      "summaryTour": "Excursión",
+      "summaryDate": "Fecha",
+      "summaryTime": "Hora",
+      "summaryGuests": "Personas",
+      "summaryContact": "Contacto"
+    },
+    "error": {
+      "title": "Algo salió mal",
+      "body": "Por favor inténtalo de nuevo o contáctanos directamente por WhatsApp.",
+      "tryAgain": "Intentar de nuevo",
+      "whatsappBtn": "WhatsApp",
+      "emailBtn": "Enviar email"
+    },
+    "tours": {
+      "perPerson": "por persona",
+      "perBoat": "por barco"
+    }
+  },
+  "whatsapp": {
+    "ariaLabel": "Abrir chat de WhatsApp"
+  },
+  "whatsappCta": {
+    "eyebrow": "Reserva directa",
+    "heading": "Reserva ahora vía WhatsApp",
+    "subtext": "Sin formularios. Escríbenos directamente y confirmaremos tu plaza en minutos.",
+    "bogdan": "Escribir a Bogdan",
+    "dimitrij": "Escribir a Dimitrij",
+    "available": "Disponible todos los días · Responde en minutos"
+  },
+  "cookie": {
+    "message": "Usamos cookies para mejorar tu experiencia.",
+    "policyLink": "Ver nuestra política de privacidad",
+    "acceptAll": "Aceptar todo",
+    "essentialOnly": "Solo esenciales"
+  },
+  "seo": {
+    "home": {
+      "title": "Tours Cueva Azul Kotor | Excursiones en Lancha Montenegro",
+      "description": "Reserva excursiones en lancha rápida desde Kotor a la Cueva Azul, Perast y la Bahía de Boka. Grupos pequeños desde €25, tours privados desde €150."
+    },
+    "perastTour": {
+      "title": "Tour Perast Kotor | Nuestra Señora de la Roca | €25/persona",
+      "description": "Excursión en lancha de Kotor a Perast y Nuestra Señora de la Roca. 2 horas, grupo pequeño, desde €25 por persona."
+    },
+    "blueCaveTour": {
+      "title": "Tour Cueva Azul Kotor | €40/persona | Excursión en Lancha",
+      "description": "Descubre la Cueva Azul, Perast, Nuestra Señora de la Roca y Mamula en lancha desde Kotor. 3–4 horas, máx. 12 personas. Desde €40/persona."
+    },
+    "privateTour": {
+      "title": "Excursiones privadas en barco Kotor | Speed Boat Tour Kotor",
+      "description": "Reserva una excursión privada en lancha en Kotor. Excursión Privada Perast (€150/barco) o Cueva Azul (€300/barco). Solo tu grupo."
+    },
+    "privatePerastTour": {
+      "title": "Tour Privado Perast Kotor | €150/barco | Lancha",
+      "description": "Tour privado en lancha a Perast desde Kotor. Solo tu grupo, €150 por barco, salida flexible."
+    },
+    "privateBlueCaveTour": {
+      "title": "Tour Privado Cueva Azul Kotor | €300/barco",
+      "description": "Tour privado en lancha a la Cueva Azul desde Kotor. Solo tu grupo, €300 por barco, salida flexible."
+    },
+    "booking": {
+      "title": "Reservar excursión | Speed Boat Tour Kotor",
+      "description": "Reserva tu excursión en lancha en Kotor, Montenegro. Reserva online fácil, pago en el lugar."
+    },
+    "terms": {
+      "title": "Términos y condiciones | Speed Boat Tour Kotor",
+      "description": "Términos y condiciones de Speed Boat Tour Kotor."
+    },
+    "privacy": {
+      "title": "Política de privacidad | Speed Boat Tour Kotor",
+      "description": "Política de privacidad de Speed Boat Tour Kotor."
+    }
+  },
+  "review": {
+    "pageTitle": "Dejar una reseña | Speed Boat Tour Kotor",
+    "ratingLabel": "Tu valoración",
+    "nameLabel": "Tu nombre",
+    "namePlaceholder": "ej. Sarah M.",
+    "textLabel": "Tu experiencia",
+    "textPlaceholder": "Cuéntanos sobre tu excursión...",
+    "submit": "Enviar reseña",
+    "submitting": "Enviando...",
+    "successTitle": "¡Gracias!",
+    "successBody": "Tu reseña ha sido enviada y aparecerá pronto en nuestro sitio.",
+    "errorMsg": "Algo salió mal. Por favor inténtalo de nuevo.",
+    "tryAgain": "Intentar de nuevo",
+    "heading": "Comparte tu experiencia",
+    "subtext": "Nos encantaría saber cómo fue tu tiempo en el agua. Tu reseña ayuda a otros viajeros a encontrarnos."
+  }
+}

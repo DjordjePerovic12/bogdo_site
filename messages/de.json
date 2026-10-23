@@ -1,0 +1,338 @@
+{
+  "nav": {
+    "tours": "Touren",
+    "gallery": "Galerie",
+    "about": "Über uns",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "bookNow": "Jetzt buchen"
+  },
+  "hero": {
+    "location": "Kotor · Boka Bucht · Montenegro",
+    "headline1": "Entdecken Sie",
+    "headline2": "die Boka Bucht",
+    "headline3": "wie nie zuvor.",
+    "subheadline": "Erfahrene Skipper. Kleine Gruppen. Brandneue Boote.\nDie Blaue Grotte, Perast und versteckte Buchten — mit voller Fahrt.",
+    "ctaPrimary": "Ihre Tour buchen",
+    "ctaSecondary": "Touren entdecken",
+    "scroll": "Scrollen"
+  },
+  "trust": {
+    "tripadvisor": "TripAdvisor bewertet",
+    "based": "Standort: Kotor",
+    "licensed": "Lizenzierte Skipper",
+    "newBoats": "Brandneue Boote",
+    "guests": "Weltweite Gäste",
+    "direct": "Direktbuchung — ohne Gebühren"
+  },
+  "tours": {
+    "sectionLabel": "Touren",
+    "groupLabel": "Gruppentouren",
+    "groupHeading": "Einer kleinen Crew beitreten",
+    "groupSubtext": "Maximal 10–12 Gäste. Nie eine Masse — immer eine Crew.",
+    "privateLabel": "Privattouren",
+    "privateHeading": "Ihr Boot, Ihre Regeln",
+    "privateSubtext": "Preis pro Boot. Ideal für Paare, Familien und Feiern.",
+    "viewTour": "Tour ansehen",
+    "smallGroup": "Kleine Gruppe",
+    "privateTour": "Privattour",
+    "popular": "Beliebt",
+    "startingFrom": "Ab",
+    "perPerson": "pro Person",
+    "perBoat": "pro Boot",
+    "duration": "Dauer",
+    "groupSize": "Gruppengröße",
+    "price": "Preis",
+    "per": "Pro",
+    "upTo": "Bis zu",
+    "allTours": "← Alle Touren",
+    "highlights": "Highlights",
+    "whatsIncluded": "Im Preis enthalten",
+    "notIncluded": "Nicht enthalten",
+    "relatedTitle": "Das könnte Ihnen auch gefallen",
+    "tabs": {
+      "overview": "Überblick",
+      "included": "Enthalten",
+      "route": "Route"
+    }
+  },
+  "cta": {
+    "heading": "In der Hochsaison werden Plätze schnell vergeben.",
+    "subtext": "Online buchen in 2 Minuten. Bestätigung innerhalb weniger Stunden.",
+    "button": "Platz reservieren"
+  },
+  "whyUs": {
+    "sectionLabel": "Warum wir",
+    "heading": "Was uns auszeichnet",
+    "items": [
+      {
+        "num": "01",
+        "title": "Nur kleine Gruppen",
+        "body": "Maximal 12 Gäste bei Gruppentouren. Kein schwimmender Bus — immer ein intimes Abenteuer."
+      },
+      {
+        "num": "02",
+        "title": "Erfahrene Skipper",
+        "body": "Unsere Crew ist mit dieser Bucht aufgewachsen. Sie kennen jede Höhle, Bucht und Strömung."
+      },
+      {
+        "num": "03",
+        "title": "Brandneue Boote",
+        "body": "Moderne, gut gewartete Schnellboote mit Schatten, Sicherheitsausrüstung und viel Power."
+      },
+      {
+        "num": "04",
+        "title": "Keine versteckten Kosten",
+        "body": "Direkt bei uns buchen. Keine Buchungsgebühren, keine Aufschläge. Barzahlung am Tag der Tour."
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionLabel": "Gästebewertungen",
+    "heading": "Was unsere Gäste sagen",
+    "seeAll": "Alle Bewertungen",
+    "close": "Schließen"
+  },
+  "gallery": {
+    "sectionLabel": "Galerie",
+    "heading": "Vom Wasser aus",
+    "viewAll": "Vollständige Galerie",
+    "placeholderNote": "Fotos folgen in Kürze"
+  },
+  "about": {
+    "sectionLabel": "Über uns",
+    "heading": "Unsere Geschichte",
+    "body": "Speed Boat Tour Kotor ist ein familiengeführtes Schnellbootunternehmen mit Sitz im Herzen von Kotor, Montenegro. Wir sind auf kleine Gruppen- und Privattouren durch die atemberaubende Boka Bucht spezialisiert — eine der schönsten Buchten der Welt."
+  },
+  "faq": {
+    "sectionLabel": "FAQ",
+    "heading": "Häufige Fragen",
+    "items": [
+      {
+        "q": "Wo starten die Touren?",
+        "a": "Alle Touren starten in Kotor. Nach Bestätigung Ihrer Buchung erhalten Sie den genauen Treffpunkt und die Abfahrtsanweisungen per WhatsApp für einen reibungslosen Einstieg."
+      },
+      {
+        "q": "Was ist im Tourpreis enthalten?",
+        "a": "Der Tourpreis umfasst einen professionellen Skipper, Kraftstoff, Schwimmwesten und Besuche der wichtigsten Sehenswürdigkeiten auf Ihrer gewählten Route. Bei Touren zur Blauen Grotte haben Gäste je nach Wetter- und Seebedingungen auch die Möglichkeit zu schwimmen und zu schnorcheln."
+      },
+      {
+        "q": "Wie bezahle ich?",
+        "a": "Die Zahlung erfolgt in bar vor der Abfahrt. Für Privattouren kann eine Anzahlung zur Sicherung der Reservierung erforderlich sein."
+      },
+      {
+        "q": "Was passiert bei schlechtem Wetter?",
+        "a": "Ihre Sicherheit und Ihr Komfort haben für uns oberste Priorität. Wenn die See- oder Wetterbedingungen nicht geeignet sind, kann die Tour umgeplant oder mit einer alternativen Route an die Bedingungen des Tages angepasst werden."
+      },
+      {
+        "q": "Können Kinder teilnehmen?",
+        "a": "Ja, Kinder sind auf allen Touren willkommen. Familienfreundliche Erlebnisse sind verfügbar, und alle Kinder müssen von einem Erwachsenen begleitet werden."
+      },
+      {
+        "q": "Wie viele Personen sind in einer Gruppentour?",
+        "a": "Gruppentouren bieten in der Regel bis zu 8 Gästen Platz und schaffen eine angenehme und entspannte Atmosphäre an Bord."
+      },
+      {
+        "q": "Welche Privattouren gibt es?",
+        "a": "Wir bieten vollständig individualisierbare Privattouren zu einigen der schönsten Orte Montenegros an, darunter Perast, Unsere Liebe Frau von den Felsen, U-Boot-Tunnel, die Insel Mamula und die Blaue Grotte. Privattouren ermöglichen flexible Abfahrtszeiten und personalisierte Routen. Neben Sightseeing-Touren bieten wir auch private Seetransfers zu Restaurants, Flughäfen, Hotels, Strandclubs sowie Abend- und Nachttransfers entlang der Küste an."
+      },
+      {
+        "q": "Was soll ich mitbringen?",
+        "a": "Wir empfehlen Sonnenbrille, Sonnencreme, Bademode, Handtuch sowie ein Telefon oder eine Kamera. Bequeme Kleidung und rutschfestes Schuhwerk sind ebenfalls empfehlenswert."
+      },
+      {
+        "q": "Wie kann ich stornieren oder ändern?",
+        "a": "Änderungen oder Stornierungen sind je nach Verfügbarkeit und Wetterbedingungen möglich. Bitte kontaktieren Sie uns so früh wie möglich, damit wir die beste Alternative anbieten können."
+      },
+      {
+        "q": "Was macht dieses Erlebnis besonders?",
+        "a": "Unsere Touren verbinden lokales Wissen, atemberaubende Ziele, flexible Routen und ein komfortables Bootserlebnis. Wir legen Wert darauf, für jeden Gast einen entspannten, authentischen und unvergesslichen Tag auf dem Wasser zu gestalten."
+      }
+    ]
+  },
+  "contact": {
+    "sectionLabel": "Kontakt",
+    "heading": "Kontaktieren Sie uns",
+    "emailLabel": "E-Mail",
+    "phoneLabel": "Telefon",
+    "locationLabel": "Standort",
+    "email": "boattourskotor1@gmail.com",
+    "phone": "+382 68 620 177",
+    "location": "Kotor, Boka Bucht, Montenegro",
+    "whatsappBtn": "WhatsApp schreiben",
+    "instagramLabel": "Instagram",
+    "tripadvisorLabel": "TripAdvisor"
+  },
+  "footer": {
+    "tagline": "Geführte Schnellboottouren vom Altstadthafen Kotor. Kleine Gruppen, neue Boote, unvergessliche Aussichten.",
+    "contactHeading": "Kontakt",
+    "quickLinksHeading": "Schnelllinks",
+    "groupTours": "Gruppentouren",
+    "privateTours": "Privattouren",
+    "about": "Über uns",
+    "faq": "FAQ",
+    "bookNow": "Jetzt buchen",
+    "copyright": "© 2026 Speed Boat Tour Kotor. Alle Rechte vorbehalten.",
+    "terms": "AGB",
+    "privacy": "Datenschutzrichtlinie"
+  },
+  "booking": {
+    "pageTitle": "Platz reservieren",
+    "pageSubtitle": "Keine Anzahlung erforderlich. Barzahlung am Tag der Tour.",
+    "back": "← Startseite",
+    "sidebarTour": "Gewählte Tour",
+    "sidebarDuration": "Dauer",
+    "sidebarPrice": "Preis",
+    "sidebarCash": "Barzahlung am Tag der Tour.",
+    "fields": {
+      "tourLabel": "Tour auswählen",
+      "tourPlaceholder": "Tour wählen...",
+      "groupToursLabel": "Gruppentouren",
+      "privateToursLabel": "Privattouren",
+      "dateLabel": "Datum",
+      "timeLabel": "Bevorzugte Uhrzeit",
+      "guestsLabel": "Anzahl der Gäste",
+      "nameLabel": "Vorname",
+      "namePlaceholder": "Ihr Vorname",
+      "lastNameLabel": "Nachname",
+      "lastNamePlaceholder": "Ihr Nachname",
+      "emailLabel": "E-Mail-Adresse",
+      "emailPlaceholder": "ihre@email.de",
+      "phoneLabel": "Telefonnummer (WhatsApp)",
+      "phonePlaceholder": "68 123 456",
+      "phoneSearchPlaceholder": "Land suchen...",
+      "phoneHint": "Wir kontaktieren Sie via WhatsApp mit dem Abholort",
+      "requestsLabel": "Sonderwünsche",
+      "requestsOptional": "(optional)",
+      "requestsPlaceholder": "Ernährungsanforderungen, Jubiläen...",
+      "paymentTitle": "Jetzt keine Zahlung erforderlich.",
+      "paymentBody": "Die Zahlung erfolgt in bar am Tag der Tour.",
+      "termsText": "Ich stimme den",
+      "termsLink": "AGB",
+      "termsAnd": "und der",
+      "privacyLink": "Datenschutzrichtlinie",
+      "estimateLabel": "Geschätzte Gesamtkosten",
+      "flexible": "Flexibel",
+      "maxNote": "Max.",
+      "largeGroupNote": "Für Gruppen über 12 Personen kontaktieren Sie uns bitte direkt",
+      "submit": "Jetzt buchen",
+      "submitting": "Wird gesendet...",
+      "referralSourceLabel": "Wer hat Sie empfohlen?",
+      "referralSourceOptional": "(optional — hilft ihnen, eine Prämie zu verdienen)",
+      "referralSourcePlaceholder": "Auswählen (optional)",
+      "referralSourceGoogle": "Google / Online-Suche",
+      "referralSourceSocial": "Soziale Medien",
+      "referralSourceOther": "Sonstiges"
+    },
+    "validation": {
+      "tourRequired": "Bitte wählen Sie eine Tour",
+      "dateRequired": "Bitte wählen Sie ein Datum",
+      "datePast": "Bitte wählen Sie ein zukünftiges Datum",
+      "dateOutOfSeason": "Touren finden vom 1. Mai bis 31. Oktober statt",
+      "nameRequired": "Name ist erforderlich",
+      "nameMin": "Name muss mindestens 2 Zeichen lang sein",
+      "lastNameRequired": "Nachname ist erforderlich",
+      "emailRequired": "E-Mail ist erforderlich",
+      "emailInvalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+      "phoneRequired": "Telefonnummer ist erforderlich",
+      "termsRequired": "Bitte akzeptieren Sie die AGB"
+    },
+    "success": {
+      "title": "Gebucht!",
+      "body": "Wir bestätigen Ihren Platz und senden Ihnen die Treffpunkt-Details per WhatsApp oder E-Mail innerhalb weniger Stunden.",
+      "refLabel": "Ihre Referenznummer:",
+      "emailSent": "Wir haben eine Bestätigung an Ihre E-Mail gesendet.",
+      "whatsappNote": "Unser Team meldet sich bald mit dem genauen Treffpunkt.",
+      "paymentNote": "Zahlung erfolgt persönlich am Tag der Tour.",
+      "backHome": "Zur Startseite",
+      "bookAnother": "Weitere Tour buchen",
+      "summaryTour": "Tour",
+      "summaryDate": "Datum",
+      "summaryTime": "Uhrzeit",
+      "summaryGuests": "Gäste",
+      "summaryContact": "Kontakt"
+    },
+    "error": {
+      "title": "Etwas ist schiefgelaufen",
+      "body": "Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt über WhatsApp.",
+      "tryAgain": "Erneut versuchen",
+      "whatsappBtn": "WhatsApp",
+      "emailBtn": "E-Mail senden"
+    },
+    "tours": {
+      "perPerson": "pro Person",
+      "perBoat": "pro Boot"
+    }
+  },
+  "whatsapp": {
+    "ariaLabel": "WhatsApp-Chat öffnen"
+  },
+  "whatsappCta": {
+    "eyebrow": "Direkt buchen",
+    "heading": "Jetzt per WhatsApp reservieren",
+    "subtext": "Kein Formular. Schreib uns direkt und wir bestätigen deinen Platz innerhalb von Minuten.",
+    "bogdan": "Bogdan schreiben",
+    "dimitrij": "Dimitrij schreiben",
+    "available": "Täglich erreichbar · Antwort innerhalb weniger Minuten"
+  },
+  "cookie": {
+    "message": "Wir verwenden Cookies, um Ihre Erfahrung zu verbessern.",
+    "policyLink": "Datenschutzrichtlinie ansehen",
+    "acceptAll": "Alle akzeptieren",
+    "essentialOnly": "Nur Notwendige"
+  },
+  "seo": {
+    "home": {
+      "title": "Blaue Grotte Kotor Touren | Schnellboottour Montenegro",
+      "description": "Schnellboottouren von Kotor zur Blauen Grotte, Perast & Boka Bucht. Kleine Gruppen ab €25, Privattouren ab €150. Direkt buchen, keine Gebühren."
+    },
+    "perastTour": {
+      "title": "Perast Bootstour Kotor | Unsere Liebe Frau vom Felsen | €25/Person",
+      "description": "Schnellboot von Kotor nach Perast und Unsere Liebe Frau vom Felsen. 2 Stunden, Kleingruppe, ab €25 pro Person."
+    },
+    "blueCaveTour": {
+      "title": "Blaue Grotte Tour Kotor | €40/Person | Schnellboot Tagesausflug",
+      "description": "Entdecken Sie die Blaue Grotte, Perast und die Boka Bucht per Schnellboot von Kotor. 3–4 Stunden, max. 12 Gäste. Ab €40/Person."
+    },
+    "privateTour": {
+      "title": "Private Bootstouren Kotor | Speed Boat Tour Kotor",
+      "description": "Private Schnellboottour in Kotor buchen. Private Perast Tour (€150/Boot) oder Private Blaue Grotte Tour (€300/Boot). Nur Ihre Gruppe."
+    },
+    "privatePerastTour": {
+      "title": "Private Perast Tour Kotor | €150/Boot | Schnellboot",
+      "description": "Private Schnellboottour nach Perast ab Kotor. Nur Ihre Gruppe, €150 pro Boot, flexible Abfahrt."
+    },
+    "privateBlueCaveTour": {
+      "title": "Private Blaue Grotte Tour Kotor | €300/Boot",
+      "description": "Private Schnellboottour zur Blauen Grotte ab Kotor. Nur Ihre Gruppe, €300 pro Boot, flexible Abfahrt."
+    },
+    "booking": {
+      "title": "Tour buchen | Speed Boat Tour Kotor",
+      "description": "Schnellboottour in Kotor, Montenegro buchen. Einfache Online-Buchung, Zahlung vor Ort."
+    },
+    "terms": {
+      "title": "AGB | Speed Boat Tour Kotor",
+      "description": "Allgemeine Geschäftsbedingungen für Speed Boat Tour Kotor."
+    },
+    "privacy": {
+      "title": "Datenschutzrichtlinie | Speed Boat Tour Kotor",
+      "description": "Datenschutzrichtlinie für Speed Boat Tour Kotor."
+    }
+  },
+  "review": {
+    "pageTitle": "Bewertung hinterlassen | Speed Boat Tour Kotor",
+    "ratingLabel": "Ihre Bewertung",
+    "nameLabel": "Ihr Name",
+    "namePlaceholder": "z.B. Sarah M.",
+    "textLabel": "Ihre Erfahrung",
+    "textPlaceholder": "Erzählen Sie uns von Ihrer Tour...",
+    "submit": "Bewertung absenden",
+    "submitting": "Wird gesendet...",
+    "successTitle": "Vielen Dank!",
+    "successBody": "Ihre Bewertung wurde eingereicht und erscheint bald auf unserer Website.",
+    "errorMsg": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
+    "tryAgain": "Erneut versuchen",
+    "heading": "Teilen Sie Ihre Erfahrung",
+    "subtext": "Wir würden gerne von Ihrer Zeit auf dem Wasser hören. Ihre Bewertung hilft anderen Reisenden, uns zu finden."
+  }
+}

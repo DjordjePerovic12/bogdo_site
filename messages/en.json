@@ -1,0 +1,338 @@
+{
+  "nav": {
+    "tours": "Tours",
+    "gallery": "Gallery",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "bookNow": "Book Now"
+  },
+  "hero": {
+    "location": "Kotor · Boka Bay · Montenegro",
+    "headline1": "Discover",
+    "headline2": "Boka Bay",
+    "headline3": "like never before.",
+    "subheadline": "Expert skippers. Small groups. Brand new boats.\nThe Blue Cave, Perast, and hidden coves — all at speed.",
+    "ctaPrimary": "Book Your Tour",
+    "ctaSecondary": "Explore Tours",
+    "scroll": "Scroll"
+  },
+  "trust": {
+    "tripadvisor": "TripAdvisor Rated",
+    "based": "Based in Kotor",
+    "licensed": "Licensed Skippers",
+    "newBoats": "Brand New Boats",
+    "guests": "Worldwide Guests",
+    "direct": "Direct Booking — No Fees"
+  },
+  "tours": {
+    "sectionLabel": "Tours",
+    "groupLabel": "Group Tours",
+    "groupHeading": "Join a small crew",
+    "groupSubtext": "Maximum 10–12 guests. Never a crowd — always a crew.",
+    "privateLabel": "Private Tours",
+    "privateHeading": "Your boat, your rules",
+    "privateSubtext": "Priced per boat. Ideal for couples, families, and celebrations.",
+    "viewTour": "View Tour",
+    "smallGroup": "Small Group",
+    "privateTour": "Private Tour",
+    "popular": "Popular",
+    "startingFrom": "Starting from",
+    "perPerson": "per person",
+    "perBoat": "per boat",
+    "duration": "Duration",
+    "groupSize": "Group size",
+    "price": "Price",
+    "per": "Per",
+    "upTo": "Up to",
+    "allTours": "← All Tours",
+    "highlights": "Highlights",
+    "whatsIncluded": "What's included",
+    "notIncluded": "Not included",
+    "relatedTitle": "You might also like",
+    "tabs": {
+      "overview": "Overview",
+      "included": "Included",
+      "route": "Route"
+    }
+  },
+  "cta": {
+    "heading": "Spots fill fast in peak season.",
+    "subtext": "Book online in 2 minutes. Confirmation within hours.",
+    "button": "Reserve Your Spot"
+  },
+  "whyUs": {
+    "sectionLabel": "Why Us",
+    "heading": "What sets us apart",
+    "items": [
+      {
+        "num": "01",
+        "title": "Small groups only",
+        "body": "Max 12 guests on group tours. Never a floating bus — always an intimate adventure with room to breathe."
+      },
+      {
+        "num": "02",
+        "title": "Expert skippers",
+        "body": "Our crew grew up on this bay. They know every cave, cove, and current — and they know when to slow down for the view."
+      },
+      {
+        "num": "03",
+        "title": "Brand new boats",
+        "body": "We invest in our fleet. Modern, well-maintained speedboats with shade, safety gear, and plenty of power."
+      },
+      {
+        "num": "04",
+        "title": "No hidden costs",
+        "body": "Book directly with us. No booking fees, no agent markups. What you see is what you pay, settled in cash on the day."
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionLabel": "Guest Reviews",
+    "heading": "What our guests say",
+    "seeAll": "See all reviews",
+    "close": "Close"
+  },
+  "gallery": {
+    "sectionLabel": "Gallery",
+    "heading": "From the water",
+    "viewAll": "View Full Gallery",
+    "placeholderNote": "Photos coming soon"
+  },
+  "about": {
+    "sectionLabel": "About Us",
+    "heading": "Our story",
+    "body": "Speed Boat Tour Kotor is a family-run speedboat tour company based in the heart of Kotor, Montenegro. We specialize in small group and private boat tours through the stunning Bay of Kotor (Boka Bay), one of the most beautiful bays in the world. Our experienced local skippers share their passion for this region with every guest, ensuring safe, memorable, and authentic experiences on the water."
+  },
+  "faq": {
+    "sectionLabel": "FAQ",
+    "heading": "Common questions",
+    "items": [
+      {
+        "q": "Where do the tours depart from?",
+        "a": "All tours depart from Kotor. After your booking is confirmed, you will receive the exact meeting point and departure instructions via WhatsApp for a simple and smooth check-in process."
+      },
+      {
+        "q": "What is included in the tour price?",
+        "a": "The tour price includes a professional skipper, fuel, life jackets, and visits to the main sightseeing locations included in your selected route. For Blue Cave tours, guests also have the opportunity to swim and snorkel, depending on weather and sea conditions."
+      },
+      {
+        "q": "How do I pay?",
+        "a": "Payment can be made in cash before departure. For private tours, a deposit may be requested to secure the reservation."
+      },
+      {
+        "q": "What happens if the weather is bad?",
+        "a": "Your safety and comfort are our priority. If sea or weather conditions are not suitable, the tour can be rescheduled or adjusted with an alternative route depending on the conditions on the day."
+      },
+      {
+        "q": "Can children join the tours?",
+        "a": "Yes, children are welcome on all tours. Family-friendly experiences are available, and all children must be accompanied by an adult."
+      },
+      {
+        "q": "How many people are in a group tour?",
+        "a": "Group tours usually accommodate up to 8 guests, creating a comfortable and relaxed atmosphere on board."
+      },
+      {
+        "q": "What private tour options are available?",
+        "a": "We offer fully customizable private tours to some of Montenegro's most beautiful locations, including Perast, Our Lady of the Rocks, Submarine Tunnels, Mamula Island, and the Blue Cave. Private tours allow flexible departure times and personalized routes based on your preferences. In addition to sightseeing tours, we also provide private sea transfers to restaurants, airports, hotels, beach clubs, and evening or night transfers along the coast."
+      },
+      {
+        "q": "What should I bring?",
+        "a": "We recommend bringing sunglasses, sunscreen, swimwear, a towel, and a phone or camera to capture the experience. Comfortable clothing and non-slip footwear are also recommended."
+      },
+      {
+        "q": "How do I cancel or change my booking?",
+        "a": "Changes or cancellations are possible depending on availability and weather conditions. Please contact us as early as possible so we can provide the best alternative."
+      },
+      {
+        "q": "What makes this experience special?",
+        "a": "Our tours combine local knowledge, stunning destinations, flexible routes, and a comfortable boating experience. We focus on creating a relaxed, authentic, and memorable day on the water for every guest."
+      }
+    ]
+  },
+  "contact": {
+    "sectionLabel": "Contact",
+    "heading": "Get in touch",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "locationLabel": "Location",
+    "email": "boattourskotor1@gmail.com",
+    "phone": "+382 68 620 177",
+    "location": "Kotor, Boka Bay, Montenegro",
+    "whatsappBtn": "WhatsApp Us",
+    "instagramLabel": "Instagram",
+    "tripadvisorLabel": "TripAdvisor"
+  },
+  "footer": {
+    "tagline": "Expert-led speedboat tours from Kotor Old Town Marina. Small groups, new boats, unforgettable views.",
+    "contactHeading": "Contact",
+    "quickLinksHeading": "Quick Links",
+    "groupTours": "Group Tours",
+    "privateTours": "Private Tours",
+    "about": "About",
+    "faq": "FAQ",
+    "bookNow": "Book Now",
+    "copyright": "© 2026 Speed Boat Tour Kotor. All rights reserved.",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy"
+  },
+  "booking": {
+    "pageTitle": "Reserve your spot",
+    "pageSubtitle": "No deposit required. Cash payment on the day of the tour.",
+    "back": "← Home",
+    "sidebarTour": "Selected Tour",
+    "sidebarDuration": "Duration",
+    "sidebarPrice": "Price",
+    "sidebarCash": "Payment collected in cash on the day.",
+    "fields": {
+      "tourLabel": "Select Tour",
+      "tourPlaceholder": "Choose a tour...",
+      "groupToursLabel": "Group Tours",
+      "privateToursLabel": "Private Tours",
+      "dateLabel": "Date",
+      "timeLabel": "Preferred Time",
+      "guestsLabel": "Number of Guests",
+      "nameLabel": "First Name",
+      "namePlaceholder": "Your first name",
+      "lastNameLabel": "Last Name",
+      "lastNamePlaceholder": "Your last name",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "your@email.com",
+      "phoneLabel": "Phone Number (WhatsApp)",
+      "phonePlaceholder": "68 123 456",
+      "phoneSearchPlaceholder": "Search country...",
+      "phoneHint": "We'll contact you via WhatsApp with your pickup location",
+      "requestsLabel": "Special Requests",
+      "requestsOptional": "(optional)",
+      "requestsPlaceholder": "Dietary needs, accessibility, celebrations...",
+      "paymentTitle": "No payment required now.",
+      "paymentBody": "Payment is collected in cash on the day of the tour at the marina.",
+      "termsText": "I agree to the",
+      "termsLink": "Terms & Conditions",
+      "termsAnd": "and",
+      "privacyLink": "Privacy Policy",
+      "estimateLabel": "Tour total estimate",
+      "flexible": "Flexible",
+      "maxNote": "Max",
+      "largeGroupNote": "For groups larger than 12, please contact us directly",
+      "submit": "Book Now",
+      "submitting": "Sending...",
+      "referralSourceLabel": "Who recommended you?",
+      "referralSourceOptional": "(optional — helps them earn a reward)",
+      "referralSourcePlaceholder": "Select (optional)",
+      "referralSourceGoogle": "Google / Online search",
+      "referralSourceSocial": "Social media",
+      "referralSourceOther": "Other"
+    },
+    "validation": {
+      "tourRequired": "Please select a tour",
+      "dateRequired": "Please select a date",
+      "datePast": "Please select a future date",
+      "dateOutOfSeason": "Tours run May 1 – October 31",
+      "nameRequired": "Name is required",
+      "nameMin": "Name must be at least 2 characters",
+      "lastNameRequired": "Last name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email address",
+      "phoneRequired": "Phone number is required",
+      "termsRequired": "Please accept the terms and conditions"
+    },
+    "success": {
+      "title": "You're booked in!",
+      "body": "We'll confirm your spot and send the meeting point details via WhatsApp or email within a few hours.",
+      "refLabel": "Your reference number:",
+      "emailSent": "We've sent a confirmation to your email.",
+      "whatsappNote": "Our team will contact you shortly via WhatsApp with the exact meeting point and final details.",
+      "paymentNote": "Payment will be collected in person on the day of the tour.",
+      "backHome": "Back to Home",
+      "bookAnother": "Book Another Tour",
+      "summaryTour": "Tour",
+      "summaryDate": "Date",
+      "summaryTime": "Time",
+      "summaryGuests": "Guests",
+      "summaryContact": "Contact"
+    },
+    "error": {
+      "title": "Something went wrong",
+      "body": "Please try again, or reach us directly on WhatsApp and we'll sort it out immediately.",
+      "tryAgain": "Try Again",
+      "whatsappBtn": "WhatsApp Us",
+      "emailBtn": "Email Us"
+    },
+    "tours": {
+      "perPerson": "per person",
+      "perBoat": "per boat"
+    }
+  },
+  "whatsapp": {
+    "ariaLabel": "Open WhatsApp chat"
+  },
+  "review": {
+    "pageTitle": "Leave a Review | Speed Boat Tour Kotor",
+    "ratingLabel": "Your rating",
+    "nameLabel": "Your name",
+    "namePlaceholder": "e.g. Sarah M.",
+    "textLabel": "Your experience",
+    "textPlaceholder": "Tell us about your tour...",
+    "submit": "Submit review",
+    "submitting": "Sending...",
+    "successTitle": "Thank you!",
+    "successBody": "Your review has been submitted and will appear on our site shortly.",
+    "errorMsg": "Something went wrong. Please try again.",
+    "tryAgain": "Try again",
+    "heading": "Share your experience",
+    "subtext": "We'd love to hear about your time on the water. Your review helps other travellers find us."
+  },
+  "whatsappCta": {
+    "eyebrow": "Book Direct",
+    "heading": "Reserve Now via WhatsApp",
+    "subtext": "Skip the form. Message us directly and we'll confirm your spot within minutes.",
+    "bogdan": "Message Bogdan",
+    "dimitrij": "Message Dimitrij",
+    "available": "Available daily · Replies within minutes"
+  },
+  "cookie": {
+    "message": "We use cookies to improve your experience.",
+    "policyLink": "See our Privacy Policy",
+    "acceptAll": "Accept All",
+    "essentialOnly": "Only Essential"
+  },
+  "seo": {
+    "home": {
+      "title": "Kotor Blue Cave Tours | Speedboat Tours Kotor Montenegro",
+      "description": "Book Blue Cave speedboat tours from Kotor, Montenegro. Explore the Blue Cave, Perast & Boka Bay. Small groups from €25, private tours from €150. Direct booking, no fees."
+    },
+    "perastTour": {
+      "title": "Perast Boat Tour Kotor | Our Lady of the Rocks | €25/person",
+      "description": "Speedboat tour from Kotor to Perast and Our Lady of the Rocks. Explore Baroque architecture and the iconic island church. 2 hours, small group, from €25 per person."
+    },
+    "blueCaveTour": {
+      "title": "Blue Cave Tour Kotor | €40/person | Speedboat Day Trip",
+      "description": "Discover the Blue Cave, Perast, Our Lady of the Rocks, Mamula Island & Porto Montenegro by speedboat from Kotor. 3–4 hours, max 12 guests. Book direct from €40/person."
+    },
+    "privateTour": {
+      "title": "Private Speedboat Tours Kotor | Speed Boat Tour Kotor",
+      "description": "Book a private speedboat tour in Kotor. Private Perast Tour (€150/boat) or Private Blue Cave Tour (€300/boat). Your group only."
+    },
+    "privatePerastTour": {
+      "title": "Private Perast Tour Kotor | €150/boat | Speedboat",
+      "description": "Private speedboat tour to Perast and Our Lady of the Rocks from Kotor. Just your group, €150 per boat, flexible departure time."
+    },
+    "privateBlueCaveTour": {
+      "title": "Private Blue Cave Tour Kotor | €300/boat | Full Boka Bay",
+      "description": "Private speedboat tour to the Blue Cave from Kotor. Blue Cave, Perast, Mamula, submarine tunnels — just your group. €300 per boat, flexible departure."
+    },
+    "booking": {
+      "title": "Book Your Tour | Speed Boat Tour Kotor",
+      "description": "Reserve your speedboat tour in Kotor, Montenegro. Easy online booking, pay in person."
+    },
+    "terms": {
+      "title": "Terms & Conditions | Speed Boat Tour Kotor",
+      "description": "Terms and conditions for Speed Boat Tour Kotor. Information about bookings, payments, cancellations, and passenger responsibilities."
+    },
+    "privacy": {
+      "title": "Privacy Policy | Speed Boat Tour Kotor",
+      "description": "Privacy policy for Speed Boat Tour Kotor. How we collect, use, and protect your personal data in compliance with GDPR."
+    }
+  }
+}

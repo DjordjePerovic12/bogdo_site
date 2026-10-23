@@ -1,0 +1,338 @@
+{
+  "nav": {
+    "tours": "Circuits",
+    "gallery": "Galerie",
+    "about": "À propos",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "bookNow": "Réserver"
+  },
+  "hero": {
+    "location": "Kotor · Baie de Boka · Monténégro",
+    "headline1": "Découvrez",
+    "headline2": "la Baie de Boka",
+    "headline3": "comme jamais.",
+    "subheadline": "Skippers expérimentés. Petits groupes. Bateaux neufs.\nLa Grotte Bleue, Perast et criques cachées — à pleine vitesse.",
+    "ctaPrimary": "Réserver votre circuit",
+    "ctaSecondary": "Explorer les circuits",
+    "scroll": "Défiler"
+  },
+  "trust": {
+    "tripadvisor": "Noté sur TripAdvisor",
+    "based": "Basé à Kotor",
+    "licensed": "Skippers agréés",
+    "newBoats": "Bateaux neufs",
+    "guests": "Clients du monde entier",
+    "direct": "Réservation directe — sans frais"
+  },
+  "tours": {
+    "sectionLabel": "Circuits",
+    "groupLabel": "Circuits en groupe",
+    "groupHeading": "Rejoignez un petit équipage",
+    "groupSubtext": "Maximum 10–12 personnes. Jamais une foule — toujours un équipage.",
+    "privateLabel": "Circuits privés",
+    "privateHeading": "Votre bateau, vos règles",
+    "privateSubtext": "Tarif par bateau. Idéal pour les couples, familles et célébrations.",
+    "viewTour": "Voir le circuit",
+    "smallGroup": "Petit groupe",
+    "privateTour": "Circuit privé",
+    "popular": "Populaire",
+    "startingFrom": "À partir de",
+    "perPerson": "par personne",
+    "perBoat": "par bateau",
+    "duration": "Durée",
+    "groupSize": "Taille du groupe",
+    "price": "Prix",
+    "per": "Par",
+    "upTo": "Jusqu'à",
+    "allTours": "← Tous les circuits",
+    "highlights": "Points forts",
+    "whatsIncluded": "Inclus",
+    "notIncluded": "Non inclus",
+    "relatedTitle": "Vous pourriez aussi aimer",
+    "tabs": {
+      "overview": "Aperçu",
+      "included": "Inclus",
+      "route": "Itinéraire"
+    }
+  },
+  "cta": {
+    "heading": "Les places partent vite en haute saison.",
+    "subtext": "Réservez en ligne en 2 minutes. Confirmation sous quelques heures.",
+    "button": "Réserver ma place"
+  },
+  "whyUs": {
+    "sectionLabel": "Pourquoi nous",
+    "heading": "Ce qui nous distingue",
+    "items": [
+      {
+        "num": "01",
+        "title": "Petits groupes uniquement",
+        "body": "12 personnes maximum en circuit de groupe. Jamais un bus flottant — toujours une aventure intime."
+      },
+      {
+        "num": "02",
+        "title": "Skippers experts",
+        "body": "Notre équipage a grandi sur cette baie. Ils connaissent chaque grotte, crique et courant."
+      },
+      {
+        "num": "03",
+        "title": "Bateaux neufs",
+        "body": "Vedettes rapides modernes et bien entretenues avec pare-soleil, équipement de sécurité et puissance."
+      },
+      {
+        "num": "04",
+        "title": "Aucun coût caché",
+        "body": "Réservez directement chez nous. Sans frais de réservation. Paiement en espèces le jour de la sortie."
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionLabel": "Avis des clients",
+    "heading": "Ce que disent nos clients",
+    "seeAll": "Voir tous les avis",
+    "close": "Fermer"
+  },
+  "gallery": {
+    "sectionLabel": "Galerie",
+    "heading": "Depuis l'eau",
+    "viewAll": "Voir toute la galerie",
+    "placeholderNote": "Photos bientôt disponibles"
+  },
+  "about": {
+    "sectionLabel": "À propos",
+    "heading": "Notre histoire",
+    "body": "Speed Boat Tour Kotor est une entreprise de circuits en vedette rapide gérée en famille, basée au cœur de Kotor, Monténégro. Nous proposons des circuits en petit groupe et privés à travers la magnifique Baie de Boka — l'une des plus belles baies du monde."
+  },
+  "faq": {
+    "sectionLabel": "FAQ",
+    "heading": "Questions fréquentes",
+    "items": [
+      {
+        "q": "D'où partent les circuits ?",
+        "a": "Tous les circuits partent de Kotor. Après confirmation de votre réservation, vous recevrez le point de rendez-vous exact et les instructions de départ par WhatsApp pour un embarquement simple et sans accroc."
+      },
+      {
+        "q": "Qu'est-ce qui est inclus dans le prix ?",
+        "a": "Le prix comprend un skipper professionnel, le carburant, les gilets de sauvetage et les visites des principaux sites touristiques de votre itinéraire. Pour les circuits Grotte Bleue, les participants ont également la possibilité de nager et de faire du snorkeling selon les conditions météorologiques et maritimes."
+      },
+      {
+        "q": "Comment régler ?",
+        "a": "Le paiement s'effectue en espèces avant le départ. Pour les circuits privés, un acompte peut être demandé pour confirmer la réservation."
+      },
+      {
+        "q": "Que se passe-t-il en cas de mauvais temps ?",
+        "a": "Votre sécurité et votre confort sont notre priorité. Si les conditions de mer ou de météo ne sont pas favorables, le circuit peut être reprogrammé ou ajusté avec un itinéraire alternatif selon les conditions du jour."
+      },
+      {
+        "q": "Les enfants peuvent-ils participer ?",
+        "a": "Oui, les enfants sont les bienvenus sur tous les circuits. Des expériences adaptées aux familles sont disponibles, et tous les enfants doivent être accompagnés d'un adulte."
+      },
+      {
+        "q": "Combien de personnes y a-t-il dans un circuit de groupe ?",
+        "a": "Les circuits de groupe accueillent généralement jusqu'à 8 personnes, créant une atmosphère confortable et détendue à bord."
+      },
+      {
+        "q": "Quelles sont les options de circuits privés ?",
+        "a": "Nous proposons des circuits privés entièrement personnalisables vers certains des plus beaux endroits du Monténégro, notamment Perast, Notre-Dame des Rochers, les Tunnels Sous-Marins, l'Île Mamula et la Grotte Bleue. Les circuits privés permettent des horaires de départ flexibles et des itinéraires personnalisés selon vos préférences. En plus des circuits touristiques, nous proposons également des transferts maritimes privés vers des restaurants, aéroports, hôtels, beach clubs, ainsi que des transferts en soirée ou de nuit le long de la côte."
+      },
+      {
+        "q": "Que dois-je apporter ?",
+        "a": "Nous recommandons d'apporter des lunettes de soleil, de la crème solaire, un maillot de bain, une serviette et un téléphone ou un appareil photo. Des vêtements confortables et des chaussures antidérapantes sont également recommandés."
+      },
+      {
+        "q": "Comment annuler ou modifier ma réservation ?",
+        "a": "Les modifications ou annulations sont possibles selon les disponibilités et les conditions météorologiques. Veuillez nous contacter le plus tôt possible afin que nous puissions vous proposer la meilleure alternative."
+      },
+      {
+        "q": "Qu'est-ce qui rend cette expérience spéciale ?",
+        "a": "Nos circuits combinent connaissance locale, destinations magnifiques, itinéraires flexibles et une agréable expérience en bateau. Nous nous attachons à créer une journée détendue, authentique et mémorable sur l'eau pour chaque client."
+      }
+    ]
+  },
+  "contact": {
+    "sectionLabel": "Contact",
+    "heading": "Contactez-nous",
+    "emailLabel": "E-mail",
+    "phoneLabel": "Téléphone",
+    "locationLabel": "Localisation",
+    "email": "boattourskotor1@gmail.com",
+    "phone": "+382 68 620 177",
+    "location": "Kotor, Baie de Boka, Monténégro",
+    "whatsappBtn": "WhatsApp",
+    "instagramLabel": "Instagram",
+    "tripadvisorLabel": "TripAdvisor"
+  },
+  "footer": {
+    "tagline": "Circuits en vedette depuis la Marina de la Vieille Ville de Kotor. Petits groupes, bateaux neufs, vues inoubliables.",
+    "contactHeading": "Contact",
+    "quickLinksHeading": "Liens rapides",
+    "groupTours": "Circuits en groupe",
+    "privateTours": "Circuits privés",
+    "about": "À propos",
+    "faq": "FAQ",
+    "bookNow": "Réserver",
+    "copyright": "© 2026 Speed Boat Tour Kotor. Tous droits réservés.",
+    "terms": "Conditions générales",
+    "privacy": "Politique de confidentialité"
+  },
+  "booking": {
+    "pageTitle": "Réserver votre place",
+    "pageSubtitle": "Aucun acompte requis. Paiement en espèces le jour de la sortie.",
+    "back": "← Accueil",
+    "sidebarTour": "Circuit sélectionné",
+    "sidebarDuration": "Durée",
+    "sidebarPrice": "Prix",
+    "sidebarCash": "Paiement en espèces le jour de la sortie.",
+    "fields": {
+      "tourLabel": "Sélectionner un circuit",
+      "tourPlaceholder": "Choisir un circuit...",
+      "groupToursLabel": "Circuits en groupe",
+      "privateToursLabel": "Circuits privés",
+      "dateLabel": "Date",
+      "timeLabel": "Heure préférée",
+      "guestsLabel": "Nombre de personnes",
+      "nameLabel": "Prénom",
+      "namePlaceholder": "Votre prénom",
+      "lastNameLabel": "Nom de famille",
+      "lastNamePlaceholder": "Votre nom de famille",
+      "emailLabel": "Adresse e-mail",
+      "emailPlaceholder": "votre@email.fr",
+      "phoneLabel": "Numéro de téléphone (WhatsApp)",
+      "phonePlaceholder": "68 123 456",
+      "phoneSearchPlaceholder": "Rechercher un pays...",
+      "phoneHint": "Nous vous contacterons via WhatsApp avec votre lieu de rendez-vous",
+      "requestsLabel": "Demandes spéciales",
+      "requestsOptional": "(optionnel)",
+      "requestsPlaceholder": "Régimes alimentaires, célébrations...",
+      "paymentTitle": "Aucun paiement requis maintenant.",
+      "paymentBody": "Le paiement s'effectue en espèces le jour de la sortie à la marina.",
+      "termsText": "J'accepte les",
+      "termsLink": "Conditions générales",
+      "termsAnd": "et la",
+      "privacyLink": "Politique de confidentialité",
+      "estimateLabel": "Estimation du coût total",
+      "flexible": "Flexible",
+      "maxNote": "Max",
+      "largeGroupNote": "Pour les groupes de plus de 12 personnes, contactez-nous directement",
+      "submit": "Réserver maintenant",
+      "submitting": "Envoi en cours...",
+      "referralSourceLabel": "Qui vous a recommandé?",
+      "referralSourceOptional": "(optionnel — aide à leur faire gagner une récompense)",
+      "referralSourcePlaceholder": "Sélectionner (optionnel)",
+      "referralSourceGoogle": "Google / Recherche en ligne",
+      "referralSourceSocial": "Réseaux sociaux",
+      "referralSourceOther": "Autre"
+    },
+    "validation": {
+      "tourRequired": "Veuillez sélectionner un circuit",
+      "dateRequired": "Veuillez sélectionner une date",
+      "datePast": "Veuillez sélectionner une date future",
+      "dateOutOfSeason": "Les circuits ont lieu du 1er mai au 31 octobre",
+      "nameRequired": "Le nom est obligatoire",
+      "nameMin": "Le nom doit comporter au moins 2 caractères",
+      "lastNameRequired": "Le nom de famille est requis",
+      "emailRequired": "L'e-mail est obligatoire",
+      "emailInvalid": "Veuillez entrer une adresse e-mail valide",
+      "phoneRequired": "Le numéro de téléphone est obligatoire",
+      "termsRequired": "Veuillez accepter les conditions générales"
+    },
+    "success": {
+      "title": "Réservation confirmée !",
+      "body": "Nous confirmerons votre place et vous enverrons les détails du rendez-vous par WhatsApp ou e-mail dans quelques heures.",
+      "refLabel": "Votre numéro de référence :",
+      "emailSent": "Nous avons envoyé une confirmation à votre e-mail.",
+      "whatsappNote": "Notre équipe vous contactera prochainement par WhatsApp avec le lieu de rendez-vous exact.",
+      "paymentNote": "Le paiement sera effectué en personne le jour de la sortie.",
+      "backHome": "Retour à l'accueil",
+      "bookAnother": "Réserver un autre circuit",
+      "summaryTour": "Circuit",
+      "summaryDate": "Date",
+      "summaryTime": "Heure",
+      "summaryGuests": "Personnes",
+      "summaryContact": "Contact"
+    },
+    "error": {
+      "title": "Une erreur s'est produite",
+      "body": "Veuillez réessayer ou contactez-nous directement sur WhatsApp.",
+      "tryAgain": "Réessayer",
+      "whatsappBtn": "WhatsApp",
+      "emailBtn": "Envoyer un e-mail"
+    },
+    "tours": {
+      "perPerson": "par personne",
+      "perBoat": "par bateau"
+    }
+  },
+  "whatsapp": {
+    "ariaLabel": "Ouvrir le chat WhatsApp"
+  },
+  "whatsappCta": {
+    "eyebrow": "Réservation directe",
+    "heading": "Réservez maintenant via WhatsApp",
+    "subtext": "Pas de formulaire. Écrivez-nous directement et nous confirmerons votre place en quelques minutes.",
+    "bogdan": "Écrire à Bogdan",
+    "dimitrij": "Écrire à Dimitrij",
+    "available": "Disponible tous les jours · Répond en quelques minutes"
+  },
+  "cookie": {
+    "message": "Nous utilisons des cookies pour améliorer votre expérience.",
+    "policyLink": "Voir notre politique de confidentialité",
+    "acceptAll": "Tout accepter",
+    "essentialOnly": "Essentiels uniquement"
+  },
+  "seo": {
+    "home": {
+      "title": "Tours Grotte Bleue Kotor | Excursions en Vedette Montenegro",
+      "description": "Réservez des excursions en vedette depuis Kotor vers la Grotte Bleue, Perast & la Baie de Boka. Petits groupes dès €25, circuits privés dès €150."
+    },
+    "perastTour": {
+      "title": "Circuit Perast Kotor | Notre-Dame du Rocher | €25/personne",
+      "description": "Excursion en vedette de Kotor à Perast et Notre-Dame du Rocher. 2 heures, petit groupe, dès €25 par personne."
+    },
+    "blueCaveTour": {
+      "title": "Circuit Grotte Bleue Kotor | €40/personne | Excursion en Vedette",
+      "description": "Découvrez la Grotte Bleue, Perast, Notre-Dame du Rocher et Mamula en vedette depuis Kotor. 3–4 heures, max 12 personnes. Dès €40/personne."
+    },
+    "privateTour": {
+      "title": "Circuits privés en bateau Kotor | Speed Boat Tour Kotor",
+      "description": "Réservez un circuit privé en vedette à Kotor. Circuit Privé Perast (150€/bateau) ou Circuit Privé Grotte Bleue (300€/bateau). Votre groupe uniquement."
+    },
+    "privatePerastTour": {
+      "title": "Circuit Privé Perast Kotor | €150/bateau | Vedette",
+      "description": "Circuit privé en vedette vers Perast depuis Kotor. Rien que votre groupe, €150 par bateau, départ flexible."
+    },
+    "privateBlueCaveTour": {
+      "title": "Circuit Privé Grotte Bleue Kotor | €300/bateau",
+      "description": "Circuit privé en vedette vers la Grotte Bleue depuis Kotor. Rien que votre groupe, €300 par bateau, départ flexible."
+    },
+    "booking": {
+      "title": "Réserver un circuit | Speed Boat Tour Kotor",
+      "description": "Réservez votre circuit en vedette à Kotor, Monténégro. Réservation en ligne facile, paiement sur place."
+    },
+    "terms": {
+      "title": "Conditions générales | Speed Boat Tour Kotor",
+      "description": "Conditions générales de Speed Boat Tour Kotor."
+    },
+    "privacy": {
+      "title": "Politique de confidentialité | Speed Boat Tour Kotor",
+      "description": "Politique de confidentialité de Speed Boat Tour Kotor."
+    }
+  },
+  "review": {
+    "pageTitle": "Laisser un avis | Speed Boat Tour Kotor",
+    "ratingLabel": "Votre note",
+    "nameLabel": "Votre nom",
+    "namePlaceholder": "ex. Sarah M.",
+    "textLabel": "Votre expérience",
+    "textPlaceholder": "Parlez-nous de votre circuit...",
+    "submit": "Soumettre l'avis",
+    "submitting": "Envoi en cours...",
+    "successTitle": "Merci !",
+    "successBody": "Votre avis a été soumis et apparaîtra bientôt sur notre site.",
+    "errorMsg": "Une erreur s'est produite. Veuillez réessayer.",
+    "tryAgain": "Réessayer",
+    "heading": "Partagez votre expérience",
+    "subtext": "Nous aimerions entendre parler de votre temps sur l'eau. Votre avis aide d'autres voyageurs à nous trouver."
+  }
+}
