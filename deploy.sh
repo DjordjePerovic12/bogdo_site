@@ -5,8 +5,11 @@ SSH_KEY="$HOME/.ssh/id_ed25519_bogdo"
 REMOTE="root@164.90.236.159"
 REMOTE_DIR="/var/www/bogdo"
 
+PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cd "$PROJECT_DIR"
+
 echo "Backing up live testimonials..."
-"$(dirname "$0")/scripts/backup-testimonials.sh"
+"$PROJECT_DIR/scripts/backup-testimonials.sh"
 
 echo "Building..."
 npm run build
@@ -21,7 +24,7 @@ rsync -az \
   --exclude='.next/cache' \
   --exclude='.next/dev' \
   --exclude='data/' \
-  /Users/djordjeperovic/Desktop/bogdo/ \
+  "$PROJECT_DIR/" \
   "$REMOTE:$REMOTE_DIR/"
 
 echo "Installing dependencies on server..."
