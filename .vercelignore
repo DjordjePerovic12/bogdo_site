@@ -1,0 +1,5 @@
+# Never upload secrets or live customer data to Vercel
+.env*
+data/
+backups/
+.claude/
