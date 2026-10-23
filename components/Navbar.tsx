@@ -21,6 +21,7 @@ export default function Navbar({ locale }: { locale: string }) {
 
   const navLinks = [
     { label: t('tours'), anchor: 'tours' },
+    { label: t('yachts'), anchor: 'yachts' },
     { label: t('gallery'), anchor: 'gallery' },
     { label: t('about'), anchor: 'about' },
     { label: t('faq'), anchor: 'faq' },

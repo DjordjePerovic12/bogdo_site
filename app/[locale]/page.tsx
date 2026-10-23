@@ -4,6 +4,7 @@ import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import TrustStrip from '@/components/TrustStrip';
 import ToursSection from '@/components/ToursSection';
+import YachtsSection from '@/components/YachtsSection';
 import CTABanner from '@/components/CTABanner';
 import WhySection from '@/components/WhySection';
 import WhatsAppCTA from '@/components/WhatsAppCTA';
@@ -122,6 +123,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         <TrustStrip />
         <ToursSection />
         <CTABanner />
+        <YachtsSection />
         <WhySection />
         <WhatsAppCTA />
         <GallerySection />

@@ -5,7 +5,8 @@
     "about": "Über uns",
     "faq": "FAQ",
     "contact": "Kontakt",
-    "bookNow": "Jetzt buchen"
+    "bookNow": "Jetzt buchen",
+    "yachts": "Yachten"
   },
   "hero": {
     "location": "Kotor · Boka Bucht · Montenegro",
@@ -317,6 +318,11 @@
     "privacy": {
       "title": "Datenschutzrichtlinie | Speed Boat Tour Kotor",
       "description": "Datenschutzrichtlinie für Speed Boat Tour Kotor."
+    },
+    "yacht": {
+      "title": "{name} · {model} Yachtcharter in Tivat & Kotor",
+      "description": "Chartern Sie {name}, eine {model} mit {length} m, ab Porto Montenegro. Bis zu {guests} Gäste, Skipper inklusive. Preise auf Anfrage.",
+      "listTitle": "Private Yachtcharter in der Bucht von Kotor"
     }
   },
   "review": {
@@ -334,5 +340,68 @@
     "tryAgain": "Erneut versuchen",
     "heading": "Teilen Sie Ihre Erfahrung",
     "subtext": "Wir würden gerne von Ihrer Zeit auf dem Wasser hören. Ihre Bewertung hilft anderen Reisenden, uns zu finden."
+  },
+  "yachts": {
+    "eyebrow": "Private Yachten",
+    "title": "Mehr als ein Speedboot.",
+    "subtitle": "Vier Yachten für entspannte Tage in der Bucht von Kotor, jede mit eigenem Skipper.",
+    "credit": "Flotte betrieben von AKUL Yachts · Porto Montenegro",
+    "length": "Länge",
+    "guests": "Gäste",
+    "cabins": "Kabinen",
+    "sleeps": "Schlafplätze",
+    "year": "Baujahr",
+    "refit": "Refit",
+    "speed": "Höchstgeschw.",
+    "crew": "Crew",
+    "knots": "kn",
+    "onRequest": "Charter auf Anfrage · Skipper inklusive",
+    "request": "Verfügbarkeit anfragen",
+    "view": "Yacht ansehen",
+    "allYachts": "Alle Yachten",
+    "onBoard": "An Bord",
+    "gallery": "Galerie",
+    "ideas": "Ideen für den Tag",
+    "other": "Weitere Yachten",
+    "departs": "Abfahrt ab Porto Montenegro, Tivat",
+    "whatsapp": "Per WhatsApp fragen",
+    "close": "Schließen",
+    "prev": "Vorheriges Foto",
+    "next": "Nächstes Foto",
+    "photoOf": "Foto {n} von {total}",
+    "idea1Title": "Unsere Liebe Frau vom Felsen",
+    "idea1Text": "Vor Anker bei der Inselkirche und dem alten Kapitänsstädtchen Perast.",
+    "idea2Title": "Blaue Grotte",
+    "idea2Text": "Schwimmen im leuchtenden Wasser der Meeresgrotte auf Luštica.",
+    "idea3Title": "Mamula & offenes Meer",
+    "idea3Text": "Vorbei an der Inselfestung zu stillen Buchten an der Adria.",
+    "idea4Title": "Sonnenuntergang in der Bucht",
+    "idea4Text": "Abendessen an Deck, während das Licht hinter den Bergen verschwindet.",
+    "form": {
+      "fDate": "Wunschtermin",
+      "fDuration": "Dauer",
+      "halfDay": "Halber Tag",
+      "fullDay": "Ganzer Tag",
+      "multiDay": "Mehrere Tage",
+      "fGuests": "Gäste",
+      "fName": "Vollständiger Name",
+      "fEmail": "E-Mail",
+      "fPhone": "Telefon / WhatsApp",
+      "fNotes": "Was sollten wir wissen?",
+      "notesPh": "Anlass, Wunschroute, Verpflegung…",
+      "submit": "Verfügbarkeit anfragen",
+      "sending": "Wird gesendet…",
+      "successTitle": "Anfrage erhalten",
+      "successText": "Wir melden uns innerhalb weniger Stunden mit Verfügbarkeit und Angebot. Ihre Referenz: {ref}.",
+      "another": "Weitere Anfrage senden",
+      "error": "Etwas ist schiefgelaufen. Bitte erneut versuchen oder per WhatsApp schreiben.",
+      "required": "Pflichtfeld",
+      "invalidEmail": "Bitte gültige E-Mail eingeben",
+      "pastDate": "Bitte ein zukünftiges Datum wählen",
+      "maxGuests": "Bis zu {max} Gäste",
+      "privacy": "Wir nutzen Ihre Daten nur, um auf diese Anfrage zu antworten."
+    },
+    "guestsCount": "{count, plural, one {# Gast} other {# Gäste}}",
+    "cabinsCount": "{count, plural, one {# Kabine} other {# Kabinen}}"
   }
 }

@@ -5,7 +5,8 @@
     "about": "À propos",
     "faq": "FAQ",
     "contact": "Contact",
-    "bookNow": "Réserver"
+    "bookNow": "Réserver",
+    "yachts": "Yachts"
   },
   "hero": {
     "location": "Kotor · Baie de Boka · Monténégro",
@@ -317,6 +318,11 @@
     "privacy": {
       "title": "Politique de confidentialité | Speed Boat Tour Kotor",
       "description": "Politique de confidentialité de Speed Boat Tour Kotor."
+    },
+    "yacht": {
+      "title": "{name} · location de yacht {model} à Tivat et Kotor",
+      "description": "Louez {name}, un {model} de {length} m, depuis Porto Montenegro. Jusqu’à {guests} invités, skipper inclus. Tarif sur demande.",
+      "listTitle": "Location de yacht privé dans les Bouches de Kotor"
     }
   },
   "review": {
@@ -334,5 +340,68 @@
     "tryAgain": "Réessayer",
     "heading": "Partagez votre expérience",
     "subtext": "Nous aimerions entendre parler de votre temps sur l'eau. Votre avis aide d'autres voyageurs à nous trouver."
+  },
+  "yachts": {
+    "eyebrow": "Yachts privés",
+    "title": "Au-delà du hors-bord.",
+    "subtitle": "Quatre yachts pour des journées tranquilles dans les Bouches de Kotor, chacun avec son skipper.",
+    "credit": "Flotte opérée par AKUL Yachts · Porto Montenegro",
+    "length": "Longueur",
+    "guests": "Invités",
+    "cabins": "Cabines",
+    "sleeps": "Couchages",
+    "year": "Année",
+    "refit": "refit",
+    "speed": "Vitesse max.",
+    "crew": "équipage",
+    "knots": "nœuds",
+    "onRequest": "Tarif sur demande · skipper inclus",
+    "request": "Demander les disponibilités",
+    "view": "Voir le yacht",
+    "allYachts": "Tous les yachts",
+    "onBoard": "À bord",
+    "gallery": "Galerie",
+    "ideas": "Idées pour la journée",
+    "other": "Autres yachts",
+    "departs": "Départ de Porto Montenegro, Tivat",
+    "whatsapp": "Demander sur WhatsApp",
+    "close": "Fermer",
+    "prev": "Photo précédente",
+    "next": "Photo suivante",
+    "photoOf": "Photo {n} sur {total}",
+    "idea1Title": "Notre-Dame-du-Rocher",
+    "idea1Text": "Mouillage près de l’église de l’îlot et du vieux village de capitaines de Perast.",
+    "idea2Title": "Grotte Bleue",
+    "idea2Text": "Baignade dans l’eau lumineuse de la grotte marine de Luštica.",
+    "idea3Title": "Mamula et le large",
+    "idea3Text": "Au-delà de la forteresse insulaire, vers des criques calmes côté Adriatique.",
+    "idea4Title": "Coucher de soleil dans la baie",
+    "idea4Text": "Dîner sur le pont pendant que la lumière disparaît derrière les montagnes.",
+    "form": {
+      "fDate": "Date souhaitée",
+      "fDuration": "Durée",
+      "halfDay": "Demi-journée",
+      "fullDay": "Journée",
+      "multiDay": "Plusieurs jours",
+      "fGuests": "Invités",
+      "fName": "Nom complet",
+      "fEmail": "Email",
+      "fPhone": "Téléphone / WhatsApp",
+      "fNotes": "Quelque chose à nous dire ?",
+      "notesPh": "Occasion, itinéraire souhaité, restauration…",
+      "submit": "Demander les disponibilités",
+      "sending": "Envoi…",
+      "successTitle": "Demande reçue",
+      "successText": "Nous répondrons sous quelques heures avec les disponibilités et un devis. Votre référence : {ref}.",
+      "another": "Envoyer une autre demande",
+      "error": "Une erreur est survenue. Réessayez ou écrivez-nous sur WhatsApp.",
+      "required": "Obligatoire",
+      "invalidEmail": "Saisissez un email valide",
+      "pastDate": "Choisissez une date future",
+      "maxGuests": "Jusqu’à {max} invités",
+      "privacy": "Vos données servent uniquement à répondre à cette demande."
+    },
+    "guestsCount": "{count, plural, one {# invité} other {# invités}}",
+    "cabinsCount": "{count, plural, one {# cabine} other {# cabines}}"
   }
 }

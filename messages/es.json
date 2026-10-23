@@ -5,7 +5,8 @@
     "about": "Nosotros",
     "faq": "FAQ",
     "contact": "Contacto",
-    "bookNow": "Reservar"
+    "bookNow": "Reservar",
+    "yachts": "Yates"
   },
   "hero": {
     "location": "Kotor · Bahía de Boka · Montenegro",
@@ -317,6 +318,11 @@
     "privacy": {
       "title": "Política de privacidad | Speed Boat Tour Kotor",
       "description": "Política de privacidad de Speed Boat Tour Kotor."
+    },
+    "yacht": {
+      "title": "{name} · alquiler de yate {model} en Tivat y Kotor",
+      "description": "Alquile {name}, un {model} de {length} m, desde Porto Montenegro. Hasta {guests} huéspedes, patrón incluido. Precio a consultar.",
+      "listTitle": "Alquiler de yates privados en la bahía de Kotor"
     }
   },
   "review": {
@@ -334,5 +340,68 @@
     "tryAgain": "Intentar de nuevo",
     "heading": "Comparte tu experiencia",
     "subtext": "Nos encantaría saber cómo fue tu tiempo en el agua. Tu reseña ayuda a otros viajeros a encontrarnos."
+  },
+  "yachts": {
+    "eyebrow": "Yates privados",
+    "title": "Más allá de la lancha.",
+    "subtitle": "Cuatro yates para días tranquilos en la bahía de Kotor, cada uno con su patrón.",
+    "credit": "Flota operada por AKUL Yachts · Porto Montenegro",
+    "length": "Eslora",
+    "guests": "Huéspedes",
+    "cabins": "Camarotes",
+    "sleeps": "Plazas",
+    "year": "Año",
+    "refit": "reforma",
+    "speed": "Vel. máx.",
+    "crew": "tripulación",
+    "knots": "nudos",
+    "onRequest": "Precio a consultar · patrón incluido",
+    "request": "Consultar disponibilidad",
+    "view": "Ver yate",
+    "allYachts": "Todos los yates",
+    "onBoard": "A bordo",
+    "gallery": "Galería",
+    "ideas": "Ideas para el día",
+    "other": "Otros yates",
+    "departs": "Salida desde Porto Montenegro, Tivat",
+    "whatsapp": "Preguntar por WhatsApp",
+    "close": "Cerrar",
+    "prev": "Foto anterior",
+    "next": "Foto siguiente",
+    "photoOf": "Foto {n} de {total}",
+    "idea1Title": "Nuestra Señora de las Rocas",
+    "idea1Text": "Fondeo junto a la iglesia en el islote y el antiguo pueblo de capitanes de Perast.",
+    "idea2Title": "Cueva Azul",
+    "idea2Text": "Baño en el agua luminosa de la cueva marina de Luštica.",
+    "idea3Title": "Mamula y mar abierto",
+    "idea3Text": "Pasando la fortaleza isleña hacia calas tranquilas del Adriático.",
+    "idea4Title": "Atardecer en la bahía",
+    "idea4Text": "Cena en cubierta mientras la luz se esconde tras las montañas.",
+    "form": {
+      "fDate": "Fecha preferida",
+      "fDuration": "Duración",
+      "halfDay": "Medio día",
+      "fullDay": "Día completo",
+      "multiDay": "Varios días",
+      "fGuests": "Huéspedes",
+      "fName": "Nombre completo",
+      "fEmail": "Email",
+      "fPhone": "Teléfono / WhatsApp",
+      "fNotes": "¿Algo que debamos saber?",
+      "notesPh": "Ocasión, ruta preferida, catering…",
+      "submit": "Consultar disponibilidad",
+      "sending": "Enviando…",
+      "successTitle": "Solicitud recibida",
+      "successText": "Responderemos en pocas horas con disponibilidad y presupuesto. Su referencia es {ref}.",
+      "another": "Enviar otra solicitud",
+      "error": "Algo salió mal. Inténtelo de nuevo o escríbanos por WhatsApp.",
+      "required": "Obligatorio",
+      "invalidEmail": "Introduzca un email válido",
+      "pastDate": "Elija una fecha futura",
+      "maxGuests": "Hasta {max} huéspedes",
+      "privacy": "Solo usamos sus datos para responder a esta solicitud."
+    },
+    "guestsCount": "{count, plural, one {# huésped} other {# huéspedes}}",
+    "cabinsCount": "{count, plural, one {# camarote} other {# camarotes}}"
   }
 }

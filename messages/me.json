@@ -5,7 +5,8 @@
     "about": "O nama",
     "faq": "Pitanja",
     "contact": "Kontakt",
-    "bookNow": "Rezerviši"
+    "bookNow": "Rezerviši",
+    "yachts": "Jahte"
   },
   "hero": {
     "location": "Kotor · Boka Kotorska · Crna Gora",
@@ -317,6 +318,11 @@
     "privacy": {
       "title": "Politika privatnosti | Speed Boat Tour Kotor",
       "description": "Politika privatnosti Speed Boat Tour Kotor."
+    },
+    "yacht": {
+      "title": "{name} · {model} – najam jahte u Tivtu i Kotoru",
+      "description": "Iznajmite {name}, {model} od {length} m, iz Porto Montenegra. Do {guests} gostiju, skiper uključen. Cijena na upit.",
+      "listTitle": "Najam privatne jahte u Boki"
     }
   },
   "review": {
@@ -334,5 +340,68 @@
     "tryAgain": "Pokušajte ponovo",
     "heading": "Podijelite vaše iskustvo",
     "subtext": "Voljeli bismo čuti o vašem vremenu na vodi. Vaša recenzija pomaže drugim putnicima da nas pronađu."
+  },
+  "yachts": {
+    "eyebrow": "Privatne jahte",
+    "title": "Više od glisera.",
+    "subtitle": "Četiri jahte za mirne dane u Bokokotorskom zalivu, svaka sa svojim skiperom.",
+    "credit": "Flotom upravlja AKUL Yachts · Porto Montenegro",
+    "length": "Dužina",
+    "guests": "Gosti",
+    "cabins": "Kabine",
+    "sleeps": "Ležajevi",
+    "year": "Godina",
+    "refit": "refit",
+    "speed": "Maks. brzina",
+    "crew": "posada",
+    "knots": "čv",
+    "onRequest": "Cijena na upit · skiper uključen",
+    "request": "Provjeri dostupnost",
+    "view": "Pogledaj jahtu",
+    "allYachts": "Sve jahte",
+    "onBoard": "Na palubi",
+    "gallery": "Galerija",
+    "ideas": "Ideje za dan",
+    "other": "Ostale jahte",
+    "departs": "Polazak iz Porto Montenegra, Tivat",
+    "whatsapp": "Pitajte na WhatsApp-u",
+    "close": "Zatvori",
+    "prev": "Prethodna fotografija",
+    "next": "Sljedeća fotografija",
+    "photoOf": "Fotografija {n} od {total}",
+    "idea1Title": "Gospa od Škrpjela",
+    "idea1Text": "Sidrenje kod ostrvske crkve i starog kapetanskog grada Perasta.",
+    "idea2Title": "Plava pećina",
+    "idea2Text": "Kupanje u svjetlucavoj vodi pećine na Luštici.",
+    "idea3Title": "Mamula i otvoreno more",
+    "idea3Text": "Pored ostrvske tvrđave do mirnih uvala na strani Jadrana.",
+    "idea4Title": "Zalazak sunca u zalivu",
+    "idea4Text": "Večera na palubi dok svjetlo nestaje iza planina.",
+    "form": {
+      "fDate": "Željeni datum",
+      "fDuration": "Trajanje",
+      "halfDay": "Pola dana",
+      "fullDay": "Cijeli dan",
+      "multiDay": "Više dana",
+      "fGuests": "Gosti",
+      "fName": "Ime i prezime",
+      "fEmail": "Email",
+      "fPhone": "Telefon / WhatsApp",
+      "fNotes": "Nešto što treba da znamo?",
+      "notesPh": "Povod, željena ruta, ketering…",
+      "submit": "Provjeri dostupnost",
+      "sending": "Slanje…",
+      "successTitle": "Upit je primljen",
+      "successText": "Javićemo se za nekoliko sati sa dostupnošću i ponudom. Vaša referenca je {ref}.",
+      "another": "Pošalji novi upit",
+      "error": "Nešto nije u redu. Pokušajte ponovo ili nam pišite na WhatsApp.",
+      "required": "Obavezno",
+      "invalidEmail": "Unesite ispravan email",
+      "pastDate": "Izaberite budući datum",
+      "maxGuests": "Najviše {max} gostiju",
+      "privacy": "Vaše podatke koristimo samo da odgovorimo na ovaj upit."
+    },
+    "guestsCount": "{count, plural, one {# gost} =2 {# gosta} =3 {# gosta} =4 {# gosta} other {# gostiju}}",
+    "cabinsCount": "{count, plural, one {# kabina} =2 {# kabine} =3 {# kabine} =4 {# kabine} other {# kabina}}"
   }
 }
