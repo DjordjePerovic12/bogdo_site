@@ -148,35 +148,28 @@ export default async function YachtPage({
       `}</style>
 
       <div style={{ background: '#050a14' }}>
-        {/* Hero */}
-        <div
-          style={{
-            position: 'relative',
-            height: 'clamp(460px, 78vh, 820px)',
-            display: 'flex',
-            alignItems: 'flex-end',
-            padding: 'clamp(2rem,5vw,4rem) clamp(1.5rem,6vw,4rem)',
-            overflow: 'hidden',
-          }}
-        >
-          <Image
-            src={yacht.hero}
-            alt={`${yacht.name}, ${yacht.builder} ${yacht.model}`}
-            fill
-            priority
-            sizes="100vw"
-            style={{ objectFit: 'cover', objectPosition: yacht.heroPosition ?? 'center' }}
-          />
+        {/* Hero: the whole photo, sized to fit the screen, with the title underneath so it never covers the boat */}
+        <div style={{ paddingTop: 70 }}>
           <div
             style={{
-              position: 'absolute',
-              inset: 0,
-              background:
-                'linear-gradient(to top, rgba(5,10,20,0.94) 0%, rgba(5,10,20,0.6) 30%, rgba(5,10,20,0.15) 52%, rgba(5,10,20,0) 65%),linear-gradient(to bottom, rgba(5,10,20,0.55) 0%, rgba(5,10,20,0) 18%)',
+              position: 'relative',
+              width: `min(100%, calc(80vh * ${yacht.heroSize[0]} / ${yacht.heroSize[1]}))`,
+              aspectRatio: `${yacht.heroSize[0]} / ${yacht.heroSize[1]}`,
+              margin: '0 auto',
+              background: '#0a1220',
             }}
-          />
-          <div style={{ position: 'relative', zIndex: 1, maxWidth: 1100, width: '100%', margin: '0 auto' }}>
-            <Link href="/#yachts" className="yd-back" style={{ ...eyebrowStyle, color: 'rgba(255,255,255,0.7)', display: 'inline-block', marginBottom: '1.75rem', transition: 'color 0.3s' }}>
+          >
+            <Image
+              src={yacht.hero}
+              alt={`${yacht.name}, ${yacht.builder} ${yacht.model}`}
+              fill
+              priority
+              sizes="100vw"
+              style={{ objectFit: 'cover' }}
+            />
+          </div>
+          <div style={{ maxWidth: 1100, margin: '0 auto', padding: 'clamp(2rem,4vw,3rem) clamp(1.5rem,6vw,4rem) clamp(2rem,4vw,3rem)' }}>
+            <Link href="/#yachts" className="yd-back" style={{ ...eyebrowStyle, color: '#7a90a8', display: 'inline-block', marginBottom: '1.5rem', transition: 'color 0.3s' }}>
               ← {t('allYachts')}
             </Link>
             <div style={{ ...eyebrowStyle, marginBottom: '0.9rem' }}>
@@ -195,7 +188,7 @@ export default async function YachtPage({
             >
               {yacht.name}
             </h1>
-            <p style={{ fontFamily: SANS, fontWeight: 300, fontSize: 'clamp(0.95rem,1.6vw,1.1rem)', color: 'rgba(255,255,255,0.75)', maxWidth: 520, lineHeight: 1.6 }}>
+            <p style={{ fontFamily: SANS, fontWeight: 300, fontSize: 'clamp(0.95rem,1.6vw,1.1rem)', color: '#9aabbf', maxWidth: 520, lineHeight: 1.6 }}>
               {yacht.tagline}
             </p>
           </div>

@@ -24,10 +24,9 @@ export default function YachtsSection() {
         .yacht-card:hover .yacht-card-cta, .yacht-card:focus-visible .yacht-card-cta { border-color: ${CHAMPAGNE}; }
         .yachts-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(1.5rem, 3vw, 2.5rem); }
         @media (max-width: 900px) { .yachts-grid { grid-template-columns: 1fr 1fr; } }
+        .yacht-card--feature { grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); gap: clamp(2rem, 4vw, 3.5rem); align-items: center; }
         @media (max-width: 760px) {
-          .yacht-card-img--feature { aspect-ratio: 4 / 3 !important; }
-          .yacht-card-body--feature { display: block !important; }
-          .yacht-card-feature-right { align-items: flex-start !important; margin-top: 0.9rem; }
+          .yacht-card--feature { grid-template-columns: 1fr; gap: 1.25rem; }
           .yachts-meta { text-align: left !important; }
         }
         @media (max-width: 600px) { .yachts-grid { grid-template-columns: 1fr; } }

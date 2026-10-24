@@ -24,8 +24,8 @@ export interface Yacht {
   intro: string;
   onBoard: { title: string; text: string }[];
   hero: string;
-  heroPosition?: string;
-  cardPosition?: string;
+  // Hero photo's pixel size, so cards and the detail hero show the whole frame.
+  heroSize: [number, number];
   gallery: YachtImage[];
 }
 
@@ -35,6 +35,56 @@ const img = (slug: string, n: number, alt: string): YachtImage => ({
 });
 
 export const YACHTS: Yacht[] = [
+  {
+    slug: 'akul',
+    name: 'Akul',
+    builder: 'Cranchi',
+    model: 'Z35',
+    year: 2021,
+    lengthM: 12,
+    guests: 8,
+    sleeps: 4,
+    cabins: 2,
+    speedKn: 34,
+    featured: true,
+    tagline: 'An Italian sports cruiser: quick, open and made for a day on the water.',
+    intro:
+      'Akul is a Cranchi Z35, an Italian sports cruiser with an open cockpit and a turn of speed. She is ideal for couples and small groups who want to see a lot of the coast in one day and still have somewhere comfortable to stop.',
+    onBoard: [
+      {
+        title: 'Cockpit',
+        text: 'A C-shaped sofa at the stern that converts to a sunpad, extra seating forward and a wet bar by the helm.',
+      },
+      {
+        title: 'Below deck',
+        text: 'A salon with an L-shaped sofa and table, a galley with hob and microwave, and a separate shower room.',
+      },
+      {
+        title: 'Cabins',
+        text: 'An owner’s cabin in the bow and a guest cabin aft, sleeping four.',
+      },
+      {
+        title: 'Performance',
+        text: 'Twin Volvo Penta D4 diesels with 270 hp each and a top speed of around 34 knots.',
+      },
+    ],
+    hero: '/images/yachts/akul/01.jpg',
+    heroSize: [2400, 1644],
+    gallery: [
+      img('akul', 1, 'Akul running through Boka Bay'),
+      img('akul', 2, 'Akul underway in open water'),
+      img('akul', 3, 'Akul off Porto Montenegro'),
+      img('akul', 4, 'Akul at anchor below the mountains'),
+      img('akul', 5, 'Cockpit with guests on board'),
+      img('akul', 6, 'Akul from above'),
+      img('akul', 7, 'Akul moored by the shore'),
+      img('akul', 8, 'Cockpit seating'),
+      img('akul', 9, 'Helm and cockpit'),
+      img('akul', 10, 'Lunch served on board'),
+      img('akul', 11, 'Salon below deck'),
+      img('akul', 12, 'Owner’s cabin'),
+    ],
+  },
   {
     slug: 'armaar',
     name: 'Armaar',
@@ -47,7 +97,6 @@ export const YACHTS: Yacht[] = [
     sleeps: 10,
     cabins: 5,
     speedKn: 30,
-    featured: true,
     tagline: 'Thirty-one metres of Spanish craftsmanship, made for long days on the bay.',
     intro:
       'Armaar is the largest yacht in the fleet: a 31-metre Astondoa 100 Century with a full crew, five en-suite cabins and decks that open out to the water. She cruises at speed when you want to cover the coast, and settles into a quiet anchorage when you don’t.',
@@ -70,7 +119,7 @@ export const YACHTS: Yacht[] = [
       },
     ],
     hero: '/images/yachts/armaar/03.jpg',
-    heroPosition: 'center 60%',
+    heroSize: [2300, 1535],
     gallery: [
       img('armaar', 3, 'Armaar foredeck lounge at dusk'),
       img('armaar', 1, 'Armaar at anchor on open water'),
@@ -118,7 +167,7 @@ export const YACHTS: Yacht[] = [
       },
     ],
     hero: '/images/yachts/aria/01.jpg',
-    cardPosition: '58% center',
+    heroSize: [2400, 1660],
     gallery: [
       img('aria', 1, 'Aria cruising past the Boka Bay hills'),
       img('aria', 2, 'Aerial view of Aria underway'),
@@ -131,54 +180,6 @@ export const YACHTS: Yacht[] = [
       img('aria', 9, 'Owner’s cabin with skylight'),
       img('aria', 10, 'Guest double cabin'),
       img('aria', 11, 'Bathroom'),
-    ],
-  },
-  {
-    slug: 'akul',
-    name: 'Akul',
-    builder: 'Cranchi',
-    model: 'Z35',
-    year: 2021,
-    lengthM: 12,
-    guests: 8,
-    sleeps: 4,
-    cabins: 2,
-    speedKn: 34,
-    tagline: 'An Italian sports cruiser: quick, open and made for a day on the water.',
-    intro:
-      'Akul is a Cranchi Z35, an Italian sports cruiser with an open cockpit and a turn of speed. She is ideal for couples and small groups who want to see a lot of the coast in one day and still have somewhere comfortable to stop.',
-    onBoard: [
-      {
-        title: 'Cockpit',
-        text: 'A C-shaped sofa at the stern that converts to a sunpad, extra seating forward and a wet bar by the helm.',
-      },
-      {
-        title: 'Below deck',
-        text: 'A salon with an L-shaped sofa and table, a galley with hob and microwave, and a separate shower room.',
-      },
-      {
-        title: 'Cabins',
-        text: 'An owner’s cabin in the bow and a guest cabin aft, sleeping four.',
-      },
-      {
-        title: 'Performance',
-        text: 'Twin Volvo Penta D4 diesels with 270 hp each and a top speed of around 34 knots.',
-      },
-    ],
-    hero: '/images/yachts/akul/01.jpg',
-    gallery: [
-      img('akul', 1, 'Akul running through Boka Bay'),
-      img('akul', 2, 'Akul underway in open water'),
-      img('akul', 3, 'Akul off Porto Montenegro'),
-      img('akul', 4, 'Akul at anchor below the mountains'),
-      img('akul', 5, 'Cockpit with guests on board'),
-      img('akul', 6, 'Akul from above'),
-      img('akul', 7, 'Akul moored by the shore'),
-      img('akul', 8, 'Cockpit seating'),
-      img('akul', 9, 'Helm and cockpit'),
-      img('akul', 10, 'Lunch served on board'),
-      img('akul', 11, 'Salon below deck'),
-      img('akul', 12, 'Owner’s cabin'),
     ],
   },
   {
@@ -213,7 +214,7 @@ export const YACHTS: Yacht[] = [
       },
     ],
     hero: '/images/yachts/azul/01.jpg',
-    heroPosition: 'center 75%',
+    heroSize: [2048, 1365],
     gallery: [
       img('azul', 1, 'Azul off Our Lady of the Rocks, Perast'),
       img('azul', 2, 'Azul cruising through the bay'),
