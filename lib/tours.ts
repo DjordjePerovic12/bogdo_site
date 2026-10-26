@@ -105,7 +105,7 @@ export const TOURS: Tour[] = [
     tagline: 'Explore Perast and Our Lady of the Rocks on your own private speedboat',
     description:
       'Experience the Bay of Kotor\'s most beautiful landmarks in complete privacy. Your own boat and skipper take you to Perast and Our Lady of the Rocks — just your group, at your pace.',
-    duration: '~2 hours',
+    duration: '1h 30–40 min',
     capacity: 12,
     capacityLabel: 'Up to 12 passengers',
     price: '€150',
