@@ -33,7 +33,7 @@ export const TOURS: Tour[] = [
     tagline: 'Discover the Baroque beauty of Perast and the island church of Our Lady of the Rocks',
     description:
       'Cruise along the stunning Bay of Kotor to the historic town of Perast and the iconic island of Our Lady of the Rocks (Gospa od Škrpjela). Spend 25–30 minutes exploring each stop, soaking in centuries of maritime history and breathtaking views.',
-    duration: '~2 hours',
+    duration: '1h 30–40 min',
     capacity: 12,
     capacityLabel: 'Small group',
     price: '€25',
